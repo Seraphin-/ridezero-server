@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_start_story",
+         "aparams":{  
+            "StoryNo":3
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

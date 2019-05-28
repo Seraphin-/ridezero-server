@@ -1,0 +1,11 @@
+{  
+    "actions":[  
+        {  
+            "action":"do_player_achievement_reward",
+            "aparams":{  
+                "Score":250
+            }
+        }
+    ],
+    "player_id":3052449840716010
+}

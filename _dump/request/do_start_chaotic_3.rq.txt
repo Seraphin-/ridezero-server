@@ -1,0 +1,12 @@
+{  
+    "actions":[  
+        {  
+            "action":"do_start_chaotic",
+            "aparams":{  
+                "MusicNo":9001,
+                "PatternNo":1000
+            }
+        }
+    ],
+    "player_id":3052449840716010
+}

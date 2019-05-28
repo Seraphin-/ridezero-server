@@ -1,0 +1,10 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_user_name_and_change_if_free",
+         "status":"success",
+         "status_code":0,
+         "userNameCheckReturn":7
+      }
+   ]
+}

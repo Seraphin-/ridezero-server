@@ -1,0 +1,188 @@
+[
+    {
+        "ConfigType": 1,
+        "Step": 0,
+        "ItemCode": null,
+        "Value": 0
+    },
+    {
+        "ConfigType": 1,
+        "Step": 1,
+        "ItemCode": null,
+        "Value": 4000
+    },
+    {
+        "ConfigType": 1,
+        "Step": 2,
+        "ItemCode": null,
+        "Value": 5000
+    },
+    {
+        "ConfigType": 1,
+        "Step": 3,
+        "ItemCode": null,
+        "Value": 6000
+    },
+    {
+        "ConfigType": 1,
+        "Step": 4,
+        "ItemCode": null,
+        "Value": 6500
+    },
+    {
+        "ConfigType": 1,
+        "Step": 5,
+        "ItemCode": null,
+        "Value": 7000
+    },
+    {
+        "ConfigType": 2,
+        "Step": 2,
+        "ItemCode": null,
+        "Value": 2100
+    },
+    {
+        "ConfigType": 2,
+        "Step": 3,
+        "ItemCode": null,
+        "Value": 2150
+    },
+    {
+        "ConfigType": 2,
+        "Step": 4,
+        "ItemCode": null,
+        "Value": 2200
+    },
+    {
+        "ConfigType": 2,
+        "Step": 5,
+        "ItemCode": null,
+        "Value": 2250
+    },
+    {
+        "ConfigType": 2,
+        "Step": 6,
+        "ItemCode": null,
+        "Value": 2300
+    },
+    {
+        "ConfigType": 2,
+        "Step": 7,
+        "ItemCode": null,
+        "Value": 2350
+    },
+    {
+        "ConfigType": 2,
+        "Step": 8,
+        "ItemCode": null,
+        "Value": 2400
+    },
+    {
+        "ConfigType": 2,
+        "Step": 9,
+        "ItemCode": null,
+        "Value": 2450
+    },
+    {
+        "ConfigType": 2,
+        "Step": 10,
+        "ItemCode": null,
+        "Value": 2500
+    },
+    {
+        "ConfigType": 2,
+        "Step": 11,
+        "ItemCode": null,
+        "Value": 2550
+    },
+    {
+        "ConfigType": 2,
+        "Step": 12,
+        "ItemCode": null,
+        "Value": 2600
+    },
+    {
+        "ConfigType": 2,
+        "Step": 13,
+        "ItemCode": null,
+        "Value": 2650
+    },
+    {
+        "ConfigType": 2,
+        "Step": 14,
+        "ItemCode": null,
+        "Value": 2700
+    },
+    {
+        "ConfigType": 2,
+        "Step": 15,
+        "ItemCode": null,
+        "Value": 2750
+    },
+    {
+        "ConfigType": 2,
+        "Step": 16,
+        "ItemCode": null,
+        "Value": 2800
+    },
+    {
+        "ConfigType": 2,
+        "Step": 17,
+        "ItemCode": null,
+        "Value": 2850
+    },
+    {
+        "ConfigType": 2,
+        "Step": 18,
+        "ItemCode": null,
+        "Value": 2900
+    },
+    {
+        "ConfigType": 2,
+        "Step": 19,
+        "ItemCode": null,
+        "Value": 2950
+    },
+    {
+        "ConfigType": 2,
+        "Step": 20,
+        "ItemCode": null,
+        "Value": 3000
+    },
+    {
+        "ConfigType": 3,
+        "Step": 1,
+        "ItemCode": "Chaotic_Coin_C",
+        "Value": 5
+    },
+    {
+        "ConfigType": 3,
+        "Step": 2,
+        "ItemCode": "Chaotic_Coin_C",
+        "Value": 10
+    },
+    {
+        "ConfigType": 3,
+        "Step": 3,
+        "ItemCode": "Chaotic_Coin_B",
+        "Value": 3
+    },
+    {
+        "ConfigType": 3,
+        "Step": 4,
+        "ItemCode": "Chaotic_Coin_B",
+        "Value": 5
+    },
+    {
+        "ConfigType": 3,
+        "Step": 5,
+        "ItemCode": "Chaotic_Coin_A",
+        "Value": 1
+    },
+    {
+        "ConfigType": 3,
+        "Step": 6,
+        "ItemCode": "Chaotic_Coin_A",
+        "Value": 3
+    }
+]

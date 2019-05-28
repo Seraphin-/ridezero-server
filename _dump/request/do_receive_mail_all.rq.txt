@@ -1,0 +1,8 @@
+{  
+    "actions":[  
+        {  
+            "action":"do_receive_mail_all"
+        }
+    ],
+    "player_id":3052449840716010
+}

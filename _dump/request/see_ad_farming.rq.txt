@@ -1,0 +1,12 @@
+{  
+   "actions":[  
+      {  
+         "action":"see_ad_farming",
+         "aparams":{  
+            "storyGroupNo":0,
+            "storyNo":0
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

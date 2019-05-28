@@ -1,0 +1,37 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_clear_chaotic",
+         "aparams":{  
+            "result":{  
+               "musicNo":9001,
+               "patternNo":1000,
+               "score":1875600,
+               "maxCombo":328,
+               "judgeTable":[  
+                  261,
+                  0,
+                  0
+               ],
+               "enemyBreakCount":1,
+               "isCleared":true,
+               "rankIndex":5,
+               "rating":1.0,
+               "enemyRating":1.0,
+               "leftHealth":1.0,
+               "feverCount":1,
+               "mineTouchCount":1,
+               "playCount":1,
+               "acquiredMedalIds":[  
+                  3,
+                  4,
+                  0,
+                  5
+               ]
+            },
+            "EquipedDesignation":""
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

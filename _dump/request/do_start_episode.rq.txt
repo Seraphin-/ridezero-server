@@ -1,0 +1,12 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_start_episode",
+         "aparams":{  
+            "charCode":"V",
+            "stageNo":1
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

@@ -1,0 +1,188 @@
+[
+    {
+        "TipID": 1,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_1"
+    },
+    {
+        "TipID": 2,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_2"
+    },
+    {
+        "TipID": 3,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_3"
+    },
+    {
+        "TipID": 4,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_4"
+    },
+    {
+        "TipID": 5,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_5"
+    },
+    {
+        "TipID": 6,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_6"
+    },
+    {
+        "TipID": 7,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_7"
+    },
+    {
+        "TipID": 8,
+        "StartScene": 0,
+        "EndScene": 8,
+        "Tip": "LOADING_TIP_8"
+    },
+    {
+        "TipID": 9,
+        "StartScene": 0,
+        "EndScene": 8,
+        "Tip": "LOADING_TIP_9"
+    },
+    {
+        "TipID": 10,
+        "StartScene": 0,
+        "EndScene": 8,
+        "Tip": "LOADING_TIP_10"
+    },
+    {
+        "TipID": 11,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_11"
+    },
+    {
+        "TipID": 12,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_12"
+    },
+    {
+        "TipID": 13,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_13"
+    },
+    {
+        "TipID": 14,
+        "StartScene": 0,
+        "EndScene": 13,
+        "Tip": "LOADING_TIP_14"
+    },
+    {
+        "TipID": 15,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_15"
+    },
+    {
+        "TipID": 16,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_16"
+    },
+    {
+        "TipID": 17,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_17"
+    },
+    {
+        "TipID": 18,
+        "StartScene": 0,
+        "EndScene": 6,
+        "Tip": "LOADING_TIP_18"
+    },
+    {
+        "TipID": 19,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_19"
+    },
+    {
+        "TipID": 20,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_20"
+    },
+    {
+        "TipID": 21,
+        "StartScene": 0,
+        "EndScene": 13,
+        "Tip": "LOADING_TIP_21"
+    },
+    {
+        "TipID": 22,
+        "StartScene": 0,
+        "EndScene": 13,
+        "Tip": "LOADING_TIP_22"
+    },
+    {
+        "TipID": 23,
+        "StartScene": 0,
+        "EndScene": 13,
+        "Tip": "LOADING_TIP_23"
+    },
+    {
+        "TipID": 24,
+        "StartScene": 0,
+        "EndScene": 11,
+        "Tip": "LOADING_TIP_24"
+    },
+    {
+        "TipID": 25,
+        "StartScene": 11,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_25"
+    },
+    {
+        "TipID": 26,
+        "StartScene": 11,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_26"
+    },
+    {
+        "TipID": 27,
+        "StartScene": 0,
+        "EndScene": 11,
+        "Tip": "LOADING_TIP_27"
+    },
+    {
+        "TipID": 28,
+        "StartScene": 0,
+        "EndScene": 11,
+        "Tip": "LOADING_TIP_28"
+    },
+    {
+        "TipID": 29,
+        "StartScene": 0,
+        "EndScene": 11,
+        "Tip": "LOADING_TIP_29"
+    },
+    {
+        "TipID": 30,
+        "StartScene": 11,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_30"
+    },
+    {
+        "TipID": 31,
+        "StartScene": 0,
+        "EndScene": 0,
+        "Tip": "LOADING_TIP_31"
+    }
+]

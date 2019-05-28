@@ -1,0 +1,218 @@
+[
+    {
+        "Score": 250,
+        "Reward1": "GOLD",
+        "Reward1Amount": 1000,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 500,
+        "Reward1": "Mic_1",
+        "Reward1Amount": 3,
+        "Reward2": "Mic_2",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 750,
+        "Reward1": "GOLD",
+        "Reward1Amount": 1000,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 1000,
+        "Reward1": "StarCube",
+        "Reward1Amount": 50,
+        "Reward2": "Fabric_1",
+        "Reward2Amount": 10,
+        "Reward3": "Steel_1",
+        "Reward3Amount": 10
+    },
+    {
+        "Score": 1250,
+        "Reward1": "GOLD",
+        "Reward1Amount": 2000,
+        "Reward2": "Chaotic_Coin_C",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 1500,
+        "Reward1": "Mic_1",
+        "Reward1Amount": 5,
+        "Reward2": "Mic_2",
+        "Reward2Amount": 5,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 1750,
+        "Reward1": "GOLD",
+        "Reward1Amount": 2000,
+        "Reward2": "Chaotic_Coin_C",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 2000,
+        "Reward1": "StarCube",
+        "Reward1Amount": 50,
+        "Reward2": "Fabric_1",
+        "Reward2Amount": 20,
+        "Reward3": "Steel_1",
+        "Reward3Amount": 20
+    },
+    {
+        "Score": 2500,
+        "Reward1": "GOLD",
+        "Reward1Amount": 2000,
+        "Reward2": "Chaotic_Coin_C",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 3000,
+        "Reward1": "Mic_1",
+        "Reward1Amount": 10,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 3500,
+        "Reward1": "GOLD",
+        "Reward1Amount": 3000,
+        "Reward2": "Chaotic_Coin_C",
+        "Reward2Amount": 5,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 4000,
+        "Reward1": "Mic_2",
+        "Reward1Amount": 10,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 4500,
+        "Reward1": "GOLD",
+        "Reward1Amount": 3000,
+        "Reward2": "Chaotic_Coin_C",
+        "Reward2Amount": 5,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 5000,
+        "Reward1": "StarCube",
+        "Reward1Amount": 100,
+        "Reward2": "Fabric_2",
+        "Reward2Amount": 5,
+        "Reward3": "Steel_2",
+        "Reward3Amount": 5
+    },
+    {
+        "Score": 5500,
+        "Reward1": "GOLD",
+        "Reward1Amount": 5000,
+        "Reward2": "Chaotic_Coin_B",
+        "Reward2Amount": 1,
+        "Reward3": "Chaotic_Coin_C",
+        "Reward3Amount": 5
+    },
+    {
+        "Score": 6000,
+        "Reward1": "Mic_1",
+        "Reward1Amount": 12,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 6500,
+        "Reward1": "GOLD",
+        "Reward1Amount": 5000,
+        "Reward2": "Chaotic_Coin_B",
+        "Reward2Amount": 1,
+        "Reward3": "Chaotic_Coin_C",
+        "Reward3Amount": 5
+    },
+    {
+        "Score": 7000,
+        "Reward1": "Mic_2",
+        "Reward1Amount": 12,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 7500,
+        "Reward1": "StarCube",
+        "Reward1Amount": 100,
+        "Reward2": "Fabric_2",
+        "Reward2Amount": 10,
+        "Reward3": "Steel_2",
+        "Reward3Amount": 10
+    },
+    {
+        "Score": 8000,
+        "Reward1": "GOLD",
+        "Reward1Amount": 7000,
+        "Reward2": "Chaotic_Coin_B",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 8500,
+        "Reward1": "Mic_1",
+        "Reward1Amount": 15,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 9000,
+        "Reward1": "GOLD",
+        "Reward1Amount": 7000,
+        "Reward2": "Chaotic_Coin_B",
+        "Reward2Amount": 3,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 9500,
+        "Reward1": "Mic_2",
+        "Reward1Amount": 15,
+        "Reward2": null,
+        "Reward2Amount": 0,
+        "Reward3": null,
+        "Reward3Amount": 0
+    },
+    {
+        "Score": 10000,
+        "Reward1": "StarCube",
+        "Reward1Amount": 150,
+        "Reward2": "Fabric_3",
+        "Reward2Amount": 3,
+        "Reward3": "Steel_3",
+        "Reward3Amount": 3
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Tier": 1,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.01,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_1"
+    },
+    {
+        "Tier": 2,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.03,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_2"
+    },
+    {
+        "Tier": 3,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.05,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_3"
+    },
+    {
+        "Tier": 4,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.1,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_4"
+    },
+    {
+        "Tier": 5,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.2,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_5"
+    },
+    {
+        "Tier": 6,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.3,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_6"
+    },
+    {
+        "Tier": 7,
+        "TierType": 2,
+        "RankingInt": 0,
+        "RankingPercentage": 0.5,
+        "RankingScore": 0,
+        "TierTextKey": "WEEKLY_RANKING_TIER_7"
+    },
+    {
+        "Tier": 999,
+        "TierType": 3,
+        "RankingInt": 0,
+        "RankingPercentage": 0,
+        "RankingScore": 50000,
+        "TierTextKey": "WEEKLY_RANKING_TIER_999"
+    }
+]

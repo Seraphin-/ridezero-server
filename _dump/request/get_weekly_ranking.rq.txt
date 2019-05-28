@@ -1,0 +1,8 @@
+{  
+    "actions":[  
+        {  
+            "action":"get_weekly_ranking"
+        }
+    ],
+    "player_id":3052449840716010
+}

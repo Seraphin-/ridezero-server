@@ -1,0 +1,11 @@
+POST /game/action/session HTTP/1.1
+Host: rz12-1672000475.ap-northeast-2.elb.amazonaws.com:80
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: keep-alive
+Accept: */*
+User-Agent: RideZero/53 CFNetwork/808.1.4 Darwin/16.1.0
+Accept-Language: ja-jp
+Accept-Encoding: gzip, deflate
+X-Unity-Version: 5.5.2f1
+

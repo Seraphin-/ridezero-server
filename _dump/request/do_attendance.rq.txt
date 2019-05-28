@@ -1,0 +1,8 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_attendance"
+      }
+   ],
+   "player_id":3052449840716010
+}

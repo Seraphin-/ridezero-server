@@ -1,0 +1,374 @@
+[
+    {
+        "GroupId": 0,
+        "MusicNo": 1,
+        "PatternNo": 1000,
+        "SortOrder": 5300
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 1,
+        "PatternNo": 1001,
+        "SortOrder": 3101
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3,
+        "PatternNo": 1000,
+        "SortOrder": 1300
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 4,
+        "PatternNo": 1000,
+        "SortOrder": 1201
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 4,
+        "PatternNo": 1001,
+        "SortOrder": 3201
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 5,
+        "PatternNo": 1000,
+        "SortOrder": 1401
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 6,
+        "PatternNo": 1000,
+        "SortOrder": 5200
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 6,
+        "PatternNo": 1001,
+        "SortOrder": 3200
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 7,
+        "PatternNo": 1000,
+        "SortOrder": 1302
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 8,
+        "PatternNo": 1000,
+        "SortOrder": 1303
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 9,
+        "PatternNo": 1001,
+        "SortOrder": 5201
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 1001,
+        "PatternNo": 1000,
+        "SortOrder": 2201
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 1001,
+        "PatternNo": 1002,
+        "SortOrder": 1501
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 1003,
+        "PatternNo": 1000,
+        "SortOrder": 2200
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2002,
+        "PatternNo": 1000,
+        "SortOrder": 5301
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2002,
+        "PatternNo": 1001,
+        "SortOrder": 1304
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2003,
+        "PatternNo": 1000,
+        "SortOrder": 4200
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2007,
+        "PatternNo": 1000,
+        "SortOrder": 1200
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2010,
+        "PatternNo": 1000,
+        "SortOrder": 1400
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2010,
+        "PatternNo": 1001,
+        "SortOrder": 4500
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2011,
+        "PatternNo": 1000,
+        "SortOrder": 1500
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 2012,
+        "PatternNo": 1000,
+        "SortOrder": 5302
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3001,
+        "PatternNo": 1000,
+        "SortOrder": 1100
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3003,
+        "PatternNo": 1000,
+        "SortOrder": 2300
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3011,
+        "PatternNo": 1000,
+        "SortOrder": 2100
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3011,
+        "PatternNo": 1001,
+        "SortOrder": 1301
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 3013,
+        "PatternNo": 1000,
+        "SortOrder": 1402
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 4006,
+        "PatternNo": 1000,
+        "SortOrder": 9900
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 9000,
+        "PatternNo": 1000,
+        "SortOrder": 1101
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 9000,
+        "PatternNo": 1001,
+        "SortOrder": 1202
+    },
+    {
+        "GroupId": 0,
+        "MusicNo": 9001,
+        "PatternNo": 1000,
+        "SortOrder": 3100
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 3,
+        "PatternNo": 1000,
+        "SortOrder": 1300
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 4,
+        "PatternNo": 1000,
+        "SortOrder": 1201
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 5,
+        "PatternNo": 1000,
+        "SortOrder": 1401
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 7,
+        "PatternNo": 1000,
+        "SortOrder": 1302
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 8,
+        "PatternNo": 1000,
+        "SortOrder": 1303
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 1001,
+        "PatternNo": 1002,
+        "SortOrder": 1501
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 2002,
+        "PatternNo": 1001,
+        "SortOrder": 1304
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 2007,
+        "PatternNo": 1000,
+        "SortOrder": 1200
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 2010,
+        "PatternNo": 1000,
+        "SortOrder": 1400
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 2011,
+        "PatternNo": 1000,
+        "SortOrder": 1500
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 3001,
+        "PatternNo": 1000,
+        "SortOrder": 1100
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 3011,
+        "PatternNo": 1001,
+        "SortOrder": 1301
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 3013,
+        "PatternNo": 1000,
+        "SortOrder": 1402
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 9000,
+        "PatternNo": 1000,
+        "SortOrder": 1101
+    },
+    {
+        "GroupId": 1,
+        "MusicNo": 9000,
+        "PatternNo": 1001,
+        "SortOrder": 1202
+    },
+    {
+        "GroupId": 2,
+        "MusicNo": 1001,
+        "PatternNo": 1000,
+        "SortOrder": 2201
+    },
+    {
+        "GroupId": 2,
+        "MusicNo": 1003,
+        "PatternNo": 1000,
+        "SortOrder": 2200
+    },
+    {
+        "GroupId": 2,
+        "MusicNo": 3003,
+        "PatternNo": 1000,
+        "SortOrder": 2300
+    },
+    {
+        "GroupId": 2,
+        "MusicNo": 3011,
+        "PatternNo": 1000,
+        "SortOrder": 2100
+    },
+    {
+        "GroupId": 2,
+        "MusicNo": 4006,
+        "PatternNo": 1000,
+        "SortOrder": 9900
+    },
+    {
+        "GroupId": 3,
+        "MusicNo": 1,
+        "PatternNo": 1001,
+        "SortOrder": 3101
+    },
+    {
+        "GroupId": 3,
+        "MusicNo": 4,
+        "PatternNo": 1001,
+        "SortOrder": 3201
+    },
+    {
+        "GroupId": 3,
+        "MusicNo": 6,
+        "PatternNo": 1001,
+        "SortOrder": 3200
+    },
+    {
+        "GroupId": 3,
+        "MusicNo": 9001,
+        "PatternNo": 1000,
+        "SortOrder": 3100
+    },
+    {
+        "GroupId": 4,
+        "MusicNo": 2003,
+        "PatternNo": 1000,
+        "SortOrder": 4200
+    },
+    {
+        "GroupId": 4,
+        "MusicNo": 2010,
+        "PatternNo": 1001,
+        "SortOrder": 4500
+    },
+    {
+        "GroupId": 5,
+        "MusicNo": 1,
+        "PatternNo": 1000,
+        "SortOrder": 5300
+    },
+    {
+        "GroupId": 5,
+        "MusicNo": 6,
+        "PatternNo": 1000,
+        "SortOrder": 5200
+    },
+    {
+        "GroupId": 5,
+        "MusicNo": 9,
+        "PatternNo": 1001,
+        "SortOrder": 5201
+    },
+    {
+        "GroupId": 5,
+        "MusicNo": 2002,
+        "PatternNo": 1000,
+        "SortOrder": 5301
+    },
+    {
+        "GroupId": 5,
+        "MusicNo": 2012,
+        "PatternNo": 1000,
+        "SortOrder": 5302
+    }
+]

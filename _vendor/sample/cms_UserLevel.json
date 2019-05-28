@@ -1,0 +1,317 @@
+[
+    {
+        "Level": 1,
+        "Grade": 1,
+        "GradeLevel": 5,
+        "NeedExp": 6000,
+        "TotalNeedExp": 6000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 0
+    },
+    {
+        "Level": 2,
+        "Grade": 1,
+        "GradeLevel": 4,
+        "NeedExp": 6000,
+        "TotalNeedExp": 12000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 500
+    },
+    {
+        "Level": 3,
+        "Grade": 1,
+        "GradeLevel": 3,
+        "NeedExp": 12000,
+        "TotalNeedExp": 24000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 1000
+    },
+    {
+        "Level": 4,
+        "Grade": 1,
+        "GradeLevel": 2,
+        "NeedExp": 13000,
+        "TotalNeedExp": 37000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 1500
+    },
+    {
+        "Level": 5,
+        "Grade": 1,
+        "GradeLevel": 1,
+        "NeedExp": 25000,
+        "TotalNeedExp": 62000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 2000
+    },
+    {
+        "Level": 6,
+        "Grade": 2,
+        "GradeLevel": 5,
+        "NeedExp": 29000,
+        "TotalNeedExp": 91000,
+        "RewardItemCode": "Song_2007",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 7,
+        "Grade": 2,
+        "GradeLevel": 4,
+        "NeedExp": 52000,
+        "TotalNeedExp": 143000,
+        "RewardItemCode": "Chaotic_Coin_C",
+        "RewardItemCount": 10
+    },
+    {
+        "Level": 8,
+        "Grade": 2,
+        "GradeLevel": 3,
+        "NeedExp": 55000,
+        "TotalNeedExp": 198000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 3500
+    },
+    {
+        "Level": 9,
+        "Grade": 2,
+        "GradeLevel": 2,
+        "NeedExp": 59000,
+        "TotalNeedExp": 257000,
+        "RewardItemCode": "Support_Ticket",
+        "RewardItemCount": 3
+    },
+    {
+        "Level": 10,
+        "Grade": 2,
+        "GradeLevel": 1,
+        "NeedExp": 69000,
+        "TotalNeedExp": 326000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 4500
+    },
+    {
+        "Level": 11,
+        "Grade": 3,
+        "GradeLevel": 5,
+        "NeedExp": 75000,
+        "TotalNeedExp": 401000,
+        "RewardItemCode": "Song_2012",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 12,
+        "Grade": 3,
+        "GradeLevel": 4,
+        "NeedExp": 81000,
+        "TotalNeedExp": 482000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 5000
+    },
+    {
+        "Level": 13,
+        "Grade": 3,
+        "GradeLevel": 3,
+        "NeedExp": 88000,
+        "TotalNeedExp": 570000,
+        "RewardItemCode": "Support_Ticket",
+        "RewardItemCount": 4
+    },
+    {
+        "Level": 14,
+        "Grade": 3,
+        "GradeLevel": 2,
+        "NeedExp": 95000,
+        "TotalNeedExp": 665000,
+        "RewardItemCode": "Chaotic_Coin_B",
+        "RewardItemCount": 10
+    },
+    {
+        "Level": 15,
+        "Grade": 3,
+        "GradeLevel": 1,
+        "NeedExp": 110000,
+        "TotalNeedExp": 775000,
+        "RewardItemCode": "StarCube",
+        "RewardItemCount": 40
+    },
+    {
+        "Level": 16,
+        "Grade": 4,
+        "GradeLevel": 5,
+        "NeedExp": 118000,
+        "TotalNeedExp": 893000,
+        "RewardItemCode": "Song_2010",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 17,
+        "Grade": 4,
+        "GradeLevel": 4,
+        "NeedExp": 126000,
+        "TotalNeedExp": 1019000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 9000
+    },
+    {
+        "Level": 18,
+        "Grade": 4,
+        "GradeLevel": 3,
+        "NeedExp": 136000,
+        "TotalNeedExp": 1155000,
+        "RewardItemCode": "Chaotic_Coin_A",
+        "RewardItemCount": 10
+    },
+    {
+        "Level": 19,
+        "Grade": 4,
+        "GradeLevel": 2,
+        "NeedExp": 146000,
+        "TotalNeedExp": 1301000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 11000
+    },
+    {
+        "Level": 20,
+        "Grade": 4,
+        "GradeLevel": 1,
+        "NeedExp": 166000,
+        "TotalNeedExp": 1467000,
+        "RewardItemCode": "StarCube",
+        "RewardItemCount": 60
+    },
+    {
+        "Level": 21,
+        "Grade": 5,
+        "GradeLevel": 5,
+        "NeedExp": 178000,
+        "TotalNeedExp": 1645000,
+        "RewardItemCode": "Song_3006",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 22,
+        "Grade": 5,
+        "GradeLevel": 4,
+        "NeedExp": 190000,
+        "TotalNeedExp": 1835000,
+        "RewardItemCode": "Support_Ticket",
+        "RewardItemCount": 6
+    },
+    {
+        "Level": 23,
+        "Grade": 5,
+        "GradeLevel": 3,
+        "NeedExp": 205000,
+        "TotalNeedExp": 2040000,
+        "RewardItemCode": "Chaotic_Coin_A",
+        "RewardItemCount": 20
+    },
+    {
+        "Level": 24,
+        "Grade": 5,
+        "GradeLevel": 2,
+        "NeedExp": 220000,
+        "TotalNeedExp": 2260000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 14000
+    },
+    {
+        "Level": 25,
+        "Grade": 5,
+        "GradeLevel": 1,
+        "NeedExp": 260000,
+        "TotalNeedExp": 2520000,
+        "RewardItemCode": "StarCube",
+        "RewardItemCount": 80
+    },
+    {
+        "Level": 26,
+        "Grade": 6,
+        "GradeLevel": 5,
+        "NeedExp": 290000,
+        "TotalNeedExp": 2810000,
+        "RewardItemCode": "Song_2011",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 27,
+        "Grade": 6,
+        "GradeLevel": 4,
+        "NeedExp": 320000,
+        "TotalNeedExp": 3130000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 15000
+    },
+    {
+        "Level": 28,
+        "Grade": 6,
+        "GradeLevel": 3,
+        "NeedExp": 365000,
+        "TotalNeedExp": 3495000,
+        "RewardItemCode": "Support_Ticket",
+        "RewardItemCount": 8
+    },
+    {
+        "Level": 29,
+        "Grade": 6,
+        "GradeLevel": 2,
+        "NeedExp": 410000,
+        "TotalNeedExp": 3905000,
+        "RewardItemCode": "GOLD",
+        "RewardItemCount": 17000
+    },
+    {
+        "Level": 30,
+        "Grade": 6,
+        "GradeLevel": 1,
+        "NeedExp": 480000,
+        "TotalNeedExp": 4385000,
+        "RewardItemCode": "StarCube",
+        "RewardItemCount": 100
+    },
+    {
+        "Level": 31,
+        "Grade": 7,
+        "GradeLevel": 5,
+        "NeedExp": 535000,
+        "TotalNeedExp": 4920000,
+        "RewardItemCode": "Song_10",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 32,
+        "Grade": 7,
+        "GradeLevel": 4,
+        "NeedExp": 610000,
+        "TotalNeedExp": 5530000,
+        "RewardItemCode": "Support_Ticket",
+        "RewardItemCount": 10
+    },
+    {
+        "Level": 33,
+        "Grade": 7,
+        "GradeLevel": 3,
+        "NeedExp": 705000,
+        "TotalNeedExp": 6235000,
+        "RewardItemCode": "Song_2009",
+        "RewardItemCount": 1
+    },
+    {
+        "Level": 34,
+        "Grade": 7,
+        "GradeLevel": 2,
+        "NeedExp": 820000,
+        "TotalNeedExp": 7055000,
+        "RewardItemCode": "StarCube",
+        "RewardItemCount": 200
+    },
+    {
+        "Level": 35,
+        "Grade": 7,
+        "GradeLevel": 1,
+        "NeedExp": 2147483647,
+        "TotalNeedExp": 2147483647,
+        "RewardItemCode": "Song_1000",
+        "RewardItemCount": 1
+    }
+]

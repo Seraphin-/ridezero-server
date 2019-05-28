@@ -1,0 +1,641 @@
+[
+    {
+        "SupportID": "CAN01",
+        "Category": 1,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_CAN01",
+        "Description": "SUPPORT_DESC_CAN01",
+        "ImageName": "Support_Cano01"
+    },
+    {
+        "SupportID": "CAN02",
+        "Category": 1,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_CAN02",
+        "Description": "SUPPORT_DESC_CAN02",
+        "ImageName": "Support_Cano02"
+    },
+    {
+        "SupportID": "CAN03",
+        "Category": 1,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_CAN03",
+        "Description": "SUPPORT_DESC_CAN03",
+        "ImageName": "Support_Cano03"
+    },
+    {
+        "SupportID": "CAN04",
+        "Category": 1,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_CAN04",
+        "Description": "SUPPORT_DESC_CAN04",
+        "ImageName": "Support_Cano04"
+    },
+    {
+        "SupportID": "CAN05",
+        "Category": 1,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_CAN05",
+        "Description": "SUPPORT_DESC_CAN05",
+        "ImageName": "Support_Cano05"
+    },
+    {
+        "SupportID": "CAN06",
+        "Category": 1,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_CAN06",
+        "Description": "SUPPORT_DESC_CAN06",
+        "ImageName": "Support_Cano06"
+    },
+    {
+        "SupportID": "CAN07",
+        "Category": 1,
+        "Grade": 5,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_CAN07",
+        "Description": "SUPPORT_DESC_CAN07",
+        "ImageName": "Support_Cano07"
+    },
+    {
+        "SupportID": "CAR01",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_CAR01",
+        "Description": "SUPPORT_DESC_CAR01",
+        "ImageName": "Support_Carol01"
+    },
+    {
+        "SupportID": "CAR02",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_CAR02",
+        "Description": "SUPPORT_DESC_CAR02",
+        "ImageName": "Support_Carol02"
+    },
+    {
+        "SupportID": "CAR03",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_CAR03",
+        "Description": "SUPPORT_DESC_CAR03",
+        "ImageName": "Support_Carol03"
+    },
+    {
+        "SupportID": "CAR04",
+        "Category": 7,
+        "Grade": 5,
+        "SummonTier": 10,
+        "Name": "SUPPORT_NAME_CAR04",
+        "Description": "SUPPORT_DESC_CAR04",
+        "ImageName": "Support_Carol04"
+    },
+    {
+        "SupportID": "COM01",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_COM01",
+        "Description": "SUPPORT_DESC_COM01",
+        "ImageName": "Support_Com01"
+    },
+    {
+        "SupportID": "MEW01",
+        "Category": 2,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_MEW01",
+        "Description": "SUPPORT_DESC_MEW01",
+        "ImageName": "Support_Mew01"
+    },
+    {
+        "SupportID": "MEW02",
+        "Category": 2,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_MEW02",
+        "Description": "SUPPORT_DESC_MEW02",
+        "ImageName": "Support_Mew02"
+    },
+    {
+        "SupportID": "MEW03",
+        "Category": 2,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_MEW03",
+        "Description": "SUPPORT_DESC_MEW03",
+        "ImageName": "Support_Mew03"
+    },
+    {
+        "SupportID": "MEW04",
+        "Category": 2,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_MEW04",
+        "Description": "SUPPORT_DESC_MEW04",
+        "ImageName": "Support_Mew04"
+    },
+    {
+        "SupportID": "MEW05",
+        "Category": 2,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_MEW05",
+        "Description": "SUPPORT_DESC_MEW05",
+        "ImageName": "Support_Mew05"
+    },
+    {
+        "SupportID": "MEW06",
+        "Category": 2,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_MEW06",
+        "Description": "SUPPORT_DESC_MEW06",
+        "ImageName": "Support_Mew06"
+    },
+    {
+        "SupportID": "MEW07",
+        "Category": 2,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_MEW07",
+        "Description": "SUPPORT_DESC_MEW07",
+        "ImageName": "Support_Mew07"
+    },
+    {
+        "SupportID": "MEW08",
+        "Category": 2,
+        "Grade": 5,
+        "SummonTier": 9,
+        "Name": "SUPPORT_NAME_MEW08",
+        "Description": "SUPPORT_DESC_MEW08",
+        "ImageName": "Support_Mew08"
+    },
+    {
+        "SupportID": "POP01",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_POP01",
+        "Description": "SUPPORT_DESC_POP01",
+        "ImageName": "Support_Popo01"
+    },
+    {
+        "SupportID": "RRR01",
+        "Category": 3,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_RRR01",
+        "Description": "SUPPORT_DESC_RRR01",
+        "ImageName": "Support_R01"
+    },
+    {
+        "SupportID": "RRR02",
+        "Category": 3,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_RRR02",
+        "Description": "SUPPORT_DESC_RRR02",
+        "ImageName": "Support_R02"
+    },
+    {
+        "SupportID": "RRR03",
+        "Category": 3,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_RRR03",
+        "Description": "SUPPORT_DESC_RRR03",
+        "ImageName": "Support_R03"
+    },
+    {
+        "SupportID": "RRR04",
+        "Category": 3,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_RRR04",
+        "Description": "SUPPORT_DESC_RRR04",
+        "ImageName": "Support_R04"
+    },
+    {
+        "SupportID": "RRR05",
+        "Category": 3,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_RRR05",
+        "Description": "SUPPORT_DESC_RRR05",
+        "ImageName": "Support_R05"
+    },
+    {
+        "SupportID": "RRR06",
+        "Category": 3,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_RRR06",
+        "Description": "SUPPORT_DESC_RRR06",
+        "ImageName": "Support_R06"
+    },
+    {
+        "SupportID": "RRR07",
+        "Category": 3,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_RRR07",
+        "Description": "SUPPORT_DESC_RRR07",
+        "ImageName": "Support_R07"
+    },
+    {
+        "SupportID": "RRR08",
+        "Category": 3,
+        "Grade": 5,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_RRR08",
+        "Description": "SUPPORT_DESC_RRR08",
+        "ImageName": "Support_R08"
+    },
+    {
+        "SupportID": "SER01",
+        "Category": 7,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_SER01",
+        "Description": "SUPPORT_DESC_SER01",
+        "ImageName": "Support_Sera01"
+    },
+    {
+        "SupportID": "SER02",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_SER02",
+        "Description": "SUPPORT_DESC_SER02",
+        "ImageName": "Support_Sera02"
+    },
+    {
+        "SupportID": "SER03",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_SER03",
+        "Description": "SUPPORT_DESC_SER03",
+        "ImageName": "Support_Sera03"
+    },
+    {
+        "SupportID": "SER04",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_SER04",
+        "Description": "SUPPORT_DESC_SER04",
+        "ImageName": "Support_Sera04"
+    },
+    {
+        "SupportID": "SER05",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_SER05",
+        "Description": "SUPPORT_DESC_SER05",
+        "ImageName": "Support_Sera05"
+    },
+    {
+        "SupportID": "SER06",
+        "Category": 7,
+        "Grade": 5,
+        "SummonTier": 9,
+        "Name": "SUPPORT_NAME_SER06",
+        "Description": "SUPPORT_DESC_SER06",
+        "ImageName": "Support_Sera06"
+    },
+    {
+        "SupportID": "SPI01",
+        "Category": 4,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_SPI01",
+        "Description": "SUPPORT_DESC_SPI01",
+        "ImageName": "Support_Spiny01"
+    },
+    {
+        "SupportID": "SPI02",
+        "Category": 4,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_SPI02",
+        "Description": "SUPPORT_DESC_SPI02",
+        "ImageName": "Support_Spiny02"
+    },
+    {
+        "SupportID": "SPI03",
+        "Category": 4,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_SPI03",
+        "Description": "SUPPORT_DESC_SPI03",
+        "ImageName": "Support_Spiny03"
+    },
+    {
+        "SupportID": "SPI04",
+        "Category": 4,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_SPI04",
+        "Description": "SUPPORT_DESC_SPI04",
+        "ImageName": "Support_Spiny04"
+    },
+    {
+        "SupportID": "SPI05",
+        "Category": 4,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_SPI05",
+        "Description": "SUPPORT_DESC_SPI05",
+        "ImageName": "Support_Spiny05"
+    },
+    {
+        "SupportID": "SPI06",
+        "Category": 4,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_SPI06",
+        "Description": "SUPPORT_DESC_SPI06",
+        "ImageName": "Support_Spiny06"
+    },
+    {
+        "SupportID": "SPI07",
+        "Category": 4,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_SPI07",
+        "Description": "SUPPORT_DESC_SPI07",
+        "ImageName": "Support_Spiny07"
+    },
+    {
+        "SupportID": "SPI08",
+        "Category": 4,
+        "Grade": 5,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_SPI08",
+        "Description": "SUPPORT_DESC_SPI08",
+        "ImageName": "Support_Spiny08"
+    },
+    {
+        "SupportID": "SPIRO",
+        "Category": 4,
+        "Grade": 5,
+        "SummonTier": 10,
+        "Name": "SUPPORT_NAME_SPIRO",
+        "Description": "SUPPORT_DESC_SPIRO",
+        "ImageName": "Support_Spir01"
+    },
+    {
+        "SupportID": "STA01",
+        "Category": 5,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_STA01",
+        "Description": "SUPPORT_DESC_STA01",
+        "ImageName": "Support_Stan01"
+    },
+    {
+        "SupportID": "STA02",
+        "Category": 5,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_STA02",
+        "Description": "SUPPORT_DESC_STA02",
+        "ImageName": "Support_Stan02"
+    },
+    {
+        "SupportID": "STA03",
+        "Category": 5,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_STA03",
+        "Description": "SUPPORT_DESC_STA03",
+        "ImageName": "Support_Stan03"
+    },
+    {
+        "SupportID": "STA04",
+        "Category": 5,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_STA04",
+        "Description": "SUPPORT_DESC_STA04",
+        "ImageName": "Support_Stan04"
+    },
+    {
+        "SupportID": "STA05",
+        "Category": 5,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_STA05",
+        "Description": "SUPPORT_DESC_STA05",
+        "ImageName": "Support_Stan05"
+    },
+    {
+        "SupportID": "STA06",
+        "Category": 5,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_STA06",
+        "Description": "SUPPORT_DESC_STA06",
+        "ImageName": "Support_Stan06"
+    },
+    {
+        "SupportID": "STA07",
+        "Category": 5,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_STA07",
+        "Description": "SUPPORT_DESC_STA07",
+        "ImageName": "Support_Stan07"
+    },
+    {
+        "SupportID": "STA08",
+        "Category": 5,
+        "Grade": 5,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_STA08",
+        "Description": "SUPPORT_DESC_STA08",
+        "ImageName": "Support_Stan08"
+    },
+    {
+        "SupportID": "TOT01",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_TOT01",
+        "Description": "SUPPORT_DESC_TOT01",
+        "ImageName": "Support_Toto01"
+    },
+    {
+        "SupportID": "VVV01",
+        "Category": 6,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_VVV01",
+        "Description": "SUPPORT_DESC_VVV01",
+        "ImageName": "Support_V01"
+    },
+    {
+        "SupportID": "VVV02",
+        "Category": 6,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_VVV02",
+        "Description": "SUPPORT_DESC_VVV02",
+        "ImageName": "Support_V02"
+    },
+    {
+        "SupportID": "VVV03",
+        "Category": 6,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_VVV03",
+        "Description": "SUPPORT_DESC_VVV03",
+        "ImageName": "Support_V03"
+    },
+    {
+        "SupportID": "VVV04",
+        "Category": 6,
+        "Grade": 3,
+        "SummonTier": 4,
+        "Name": "SUPPORT_NAME_VVV04",
+        "Description": "SUPPORT_DESC_VVV04",
+        "ImageName": "Support_V04"
+    },
+    {
+        "SupportID": "VVV05",
+        "Category": 6,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_VVV05",
+        "Description": "SUPPORT_DESC_VVV05",
+        "ImageName": "Support_V05"
+    },
+    {
+        "SupportID": "VVV06",
+        "Category": 6,
+        "Grade": 4,
+        "SummonTier": 6,
+        "Name": "SUPPORT_NAME_VVV06",
+        "Description": "SUPPORT_DESC_VVV06",
+        "ImageName": "Support_V06"
+    },
+    {
+        "SupportID": "VVV07",
+        "Category": 6,
+        "Grade": 4,
+        "SummonTier": 7,
+        "Name": "SUPPORT_NAME_VVV07",
+        "Description": "SUPPORT_DESC_VVV07",
+        "ImageName": "Support_V07"
+    },
+    {
+        "SupportID": "VVV08",
+        "Category": 6,
+        "Grade": 5,
+        "SummonTier": 8,
+        "Name": "SUPPORT_NAME_VVV08",
+        "Description": "SUPPORT_DESC_VVV08",
+        "ImageName": "Support_V08"
+    },
+    {
+        "SupportID": "VVV09",
+        "Category": 6,
+        "Grade": 5,
+        "SummonTier": 9,
+        "Name": "SUPPORT_NAME_VVV09",
+        "Description": "SUPPORT_DESC_VVV09",
+        "ImageName": "Support_V09"
+    },
+    {
+        "SupportID": "YUR01",
+        "Category": 7,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_YUR01",
+        "Description": "SUPPORT_DESC_YUR01",
+        "ImageName": "Support_Yuria01"
+    },
+    {
+        "SupportID": "YUR02",
+        "Category": 7,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_YUR02",
+        "Description": "SUPPORT_DESC_YUR02",
+        "ImageName": "Support_Yuria02"
+    },
+    {
+        "SupportID": "YUR03",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 2,
+        "Name": "SUPPORT_NAME_YUR03",
+        "Description": "SUPPORT_DESC_YUR03",
+        "ImageName": "Support_Yuria03"
+    },
+    {
+        "SupportID": "YUR04",
+        "Category": 7,
+        "Grade": 3,
+        "SummonTier": 3,
+        "Name": "SUPPORT_NAME_YUR04",
+        "Description": "SUPPORT_DESC_YUR04",
+        "ImageName": "Support_Yuria04"
+    },
+    {
+        "SupportID": "YUR05",
+        "Category": 7,
+        "Grade": 4,
+        "SummonTier": 5,
+        "Name": "SUPPORT_NAME_YUR05",
+        "Description": "SUPPORT_DESC_YUR05",
+        "ImageName": "Support_Yuria05"
+    },
+    {
+        "SupportID": "ZCB01",
+        "Category": 8,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_ZCB01",
+        "Description": "SUPPORT_DESC_ZCB01",
+        "ImageName": "Supporter_Core_Blue"
+    },
+    {
+        "SupportID": "ZCG01",
+        "Category": 8,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_ZCG01",
+        "Description": "SUPPORT_DESC_ZCG01",
+        "ImageName": "Supporter_Core_Green"
+    },
+    {
+        "SupportID": "ZCR01",
+        "Category": 8,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_ZCR01",
+        "Description": "SUPPORT_DESC_ZCR01",
+        "ImageName": "Supporter_Core_Red"
+    },
+    {
+        "SupportID": "ZCY01",
+        "Category": 8,
+        "Grade": 2,
+        "SummonTier": 1,
+        "Name": "SUPPORT_NAME_ZCY01",
+        "Description": "SUPPORT_DESC_ZCY01",
+        "ImageName": "Supporter_Core_Yellow"
+    }
+]

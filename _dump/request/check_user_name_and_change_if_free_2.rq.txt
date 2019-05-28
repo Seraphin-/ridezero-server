@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_user_name_and_change_if_free",
+         "aparams":{  
+            "name":"EternityLam"
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

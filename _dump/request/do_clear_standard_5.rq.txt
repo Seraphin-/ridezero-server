@@ -1,0 +1,34 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_clear_standard",
+         "aparams":{  
+            "result":{  
+               "musicNo":3007,
+               "patternNo":2,
+               "score":21456800,
+               "maxCombo":6006,
+               "judgeTable":[  
+                  912,
+                  50,
+                  9
+               ],
+               "enemyBreakCount":65,
+               "isCleared":true,
+               "rankIndex":4,
+               "rating":0.9665339589118958,
+               "enemyRating":0.9701492786407471,
+               "leftHealth":1.0,
+               "feverCount":8,
+               "mineTouchCount":0,
+               "playCount":1,
+               "acquiredMedalIds":[  
+                  5
+               ]
+            },
+            "EquipedDesignation":""
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

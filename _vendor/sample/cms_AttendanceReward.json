@@ -1,0 +1,156 @@
+[
+    {
+        "AttendanceID": 1,
+        "DayNumber": 1,
+        "ItemCode": "GOLD",
+        "ItemCount": 3000,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 2,
+        "ItemCode": "Mic_1",
+        "ItemCount": 10,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 3,
+        "ItemCode": "Mic_2",
+        "ItemCount": 10,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 4,
+        "ItemCode": "Chaotic_Coin_B",
+        "ItemCount": 15,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 5,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 2,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 6,
+        "ItemCode": "GOLD",
+        "ItemCount": 3000,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 7,
+        "ItemCode": "Chaotic_Coin_A",
+        "ItemCount": 5,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 8,
+        "ItemCode": "Steel_1",
+        "ItemCount": 25,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 9,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 25,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 1,
+        "DayNumber": 10,
+        "ItemCode": "Song_2005",
+        "ItemCount": 1,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 2,
+        "DayNumber": 1,
+        "ItemCode": "DailyPresent",
+        "ItemCount": 1,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 2,
+        "DayNumber": 2,
+        "ItemCode": "DailyPresent",
+        "ItemCount": 1,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 1,
+        "ItemCode": "GOLD",
+        "ItemCount": 3000,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 2,
+        "ItemCode": "Steel_2",
+        "ItemCount": 10,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 3,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 1,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 4,
+        "ItemCode": "Chaotic_Coin_B",
+        "ItemCount": 10,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 10,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 6,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 2,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 7,
+        "ItemCode": "Steel_3",
+        "ItemCount": 5,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 8,
+        "ItemCode": "Fabric_3",
+        "ItemCount": 5,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 9,
+        "ItemCode": "Chaotic_Coin_A",
+        "ItemCount": 5,
+        "ApplyType": 2
+    },
+    {
+        "AttendanceID": 3,
+        "DayNumber": 10,
+        "ItemCode": "StarCube",
+        "ItemCount": 50,
+        "ApplyType": 2
+    }
+]

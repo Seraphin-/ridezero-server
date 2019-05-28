@@ -1,0 +1,25 @@
+{  
+    "actions":[  
+        {  
+            "action":"get_player_mailbox",
+            "mailList":[  
+                {  
+                    "MailIndex":163481,
+                    "pid":3052449840716010,
+                    "MailID":0,
+                    "Route":8,
+                    "RouteValue":250,
+                    "Sender":"ADMIN",
+                    "Content":"REACHED_ACHIEVEMENT_SCORE",
+                    "ExpireDate":"2018-01-13T05:46:11",
+                    "ItemType":3,
+                    "ItemCode":"GOLD",
+                    "ItemCount":1000,
+                    "Expired":0
+                }
+            ],
+            "status":"success",
+            "status_code":0
+        }
+    ]
+}

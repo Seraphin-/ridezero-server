@@ -1,0 +1,32 @@
+[
+    {
+        "GroupId": 0,
+        "Name": "All Musics",
+        "SortOrder": 0
+    },
+    {
+        "GroupId": 1,
+        "Name": "Irregular",
+        "SortOrder": 1
+    },
+    {
+        "GroupId": 2,
+        "Name": "Distortion",
+        "SortOrder": 2
+    },
+    {
+        "GroupId": 3,
+        "Name": "Trap",
+        "SortOrder": 3
+    },
+    {
+        "GroupId": 4,
+        "Name": "Respect",
+        "SortOrder": 4
+    },
+    {
+        "GroupId": 5,
+        "Name": "Extra",
+        "SortOrder": 5
+    }
+]

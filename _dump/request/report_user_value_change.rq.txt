@@ -1,0 +1,14 @@
+{  
+    "actions":[  
+        {  
+            "action":"report_user_value_change",
+            "aparams":{  
+                "isString":0,
+                "valueKey":"FingerTutor_Step",
+                "intValue":5,
+                "strValue":""
+            }
+        }
+    ],
+    "player_id":3158420840897139
+}

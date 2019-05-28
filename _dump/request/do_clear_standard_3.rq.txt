@@ -1,0 +1,34 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_clear_standard",
+         "aparams":{  
+            "result":{  
+               "musicNo":2007,
+               "patternNo":3,
+               "score":27789600,
+               "maxCombo":5973,
+               "judgeTable":[  
+                  1143,
+                  49,
+                  12
+               ],
+               "enemyBreakCount":65,
+               "isCleared":true,
+               "rankIndex":4,
+               "rating":0.9655437469482422,
+               "enemyRating":0.9558823704719544,
+               "leftHealth":1.0,
+               "feverCount":8,
+               "mineTouchCount":0,
+               "playCount":1,
+               "acquiredMedalIds":[  
+                  5
+               ]
+            },
+            "EquipedDesignation":"Desig_Stage1"
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

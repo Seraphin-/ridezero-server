@@ -1,0 +1,15 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_clear_episode",
+         "aparams":{  
+            "charCode":"V",
+            "stageNo":1,
+            "leaderboard1":"",
+            "leaderboard2":"",
+            "leaderboard3":""
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

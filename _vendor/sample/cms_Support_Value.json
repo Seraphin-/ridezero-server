@@ -1,0 +1,5114 @@
+[
+    {
+        "SupportID": "CAN01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN02",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN03",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN04",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN05",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN06",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAN07",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR01",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR02",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR03",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 1,
+        "Value": 41139,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 2,
+        "Value": 47331,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 3,
+        "Value": 56619,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 4,
+        "Value": 69003,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 5,
+        "Value": 87579,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 6,
+        "Value": 112347,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 7,
+        "Value": 149499,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 8,
+        "Value": 199035,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 9,
+        "Value": 273339,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 10,
+        "Value": 372411,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 11,
+        "Value": 570555,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "CAR04",
+        "Level": 12,
+        "Value": 815285,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "COM01",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW02",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW03",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW04",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW05",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW06",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW07",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 1,
+        "Value": 40083,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 2,
+        "Value": 46209,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 3,
+        "Value": 55398,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 4,
+        "Value": 67650,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 5,
+        "Value": 86028,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 6,
+        "Value": 110532,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 7,
+        "Value": 147288,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 8,
+        "Value": 196296,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 9,
+        "Value": 269808,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 10,
+        "Value": 367824,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 11,
+        "Value": 563856,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "MEW08",
+        "Level": 12,
+        "Value": 806193,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "POP01",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR02",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR03",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR04",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR05",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR06",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR07",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "RRR08",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER02",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER03",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER04",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER05",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 1,
+        "Value": 40083,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 2,
+        "Value": 46209,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 3,
+        "Value": 55398,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 4,
+        "Value": 67650,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 5,
+        "Value": 86028,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 6,
+        "Value": 110532,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 7,
+        "Value": 147288,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 8,
+        "Value": 196296,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 9,
+        "Value": 269808,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 10,
+        "Value": 367824,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 11,
+        "Value": 563856,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SER06",
+        "Level": 12,
+        "Value": 806193,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI02",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI03",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI04",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI05",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI06",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI07",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPI08",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 1,
+        "Value": 41139,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 2,
+        "Value": 47331,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 3,
+        "Value": 56619,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 4,
+        "Value": 69003,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 5,
+        "Value": 87579,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 6,
+        "Value": 112347,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 7,
+        "Value": 149499,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 8,
+        "Value": 199035,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 9,
+        "Value": 273339,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 10,
+        "Value": 372411,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 11,
+        "Value": 570555,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "SPIRO",
+        "Level": 12,
+        "Value": 815285,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA02",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA03",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA04",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA05",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA06",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA07",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "STA08",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "TOT01",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV02",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV03",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 1,
+        "Value": 26015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 2,
+        "Value": 29015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 3,
+        "Value": 33515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 4,
+        "Value": 39515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 5,
+        "Value": 48515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 6,
+        "Value": 60515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 7,
+        "Value": 78515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 8,
+        "Value": 102515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 9,
+        "Value": 138515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 10,
+        "Value": 186515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 11,
+        "Value": 282515,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV04",
+        "Level": 12,
+        "Value": 401073,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV05",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 1,
+        "Value": 32168,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 2,
+        "Value": 35938,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 3,
+        "Value": 41593,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 4,
+        "Value": 49133,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 5,
+        "Value": 60443,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 6,
+        "Value": 75523,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 7,
+        "Value": 98143,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 8,
+        "Value": 128303,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 9,
+        "Value": 173543,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 10,
+        "Value": 233863,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 11,
+        "Value": 354503,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV06",
+        "Level": 12,
+        "Value": 503745,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 1,
+        "Value": 33251,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 2,
+        "Value": 37071,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 3,
+        "Value": 42801,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 4,
+        "Value": 50441,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 5,
+        "Value": 61901,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 6,
+        "Value": 77181,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 7,
+        "Value": 100101,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 8,
+        "Value": 130661,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 9,
+        "Value": 176501,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 10,
+        "Value": 237621,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 11,
+        "Value": 359861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV07",
+        "Level": 12,
+        "Value": 510988,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 1,
+        "Value": 38766,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 2,
+        "Value": 44804,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 3,
+        "Value": 53861,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 4,
+        "Value": 65937,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 5,
+        "Value": 84051,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 6,
+        "Value": 108203,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 7,
+        "Value": 144431,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 8,
+        "Value": 192735,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 9,
+        "Value": 265191,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 10,
+        "Value": 361799,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 11,
+        "Value": 555015,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV08",
+        "Level": 12,
+        "Value": 793747,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 1,
+        "Value": 40083,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 2,
+        "Value": 46209,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 3,
+        "Value": 55398,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 4,
+        "Value": 67650,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 5,
+        "Value": 86028,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 6,
+        "Value": 110532,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 7,
+        "Value": 147288,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 8,
+        "Value": 196296,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 9,
+        "Value": 269808,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 10,
+        "Value": 367824,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 11,
+        "Value": 563856,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "VVV09",
+        "Level": 12,
+        "Value": 806193,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR01",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 1,
+        "Value": 18324,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 2,
+        "Value": 20454,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 3,
+        "Value": 23649,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 4,
+        "Value": 27909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 5,
+        "Value": 34299,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 6,
+        "Value": 42819,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 7,
+        "Value": 55599,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 8,
+        "Value": 72639,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 9,
+        "Value": 98199,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 10,
+        "Value": 132279,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 11,
+        "Value": 200439,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR02",
+        "Level": 12,
+        "Value": 284746,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR03",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 1,
+        "Value": 24617,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 2,
+        "Value": 27521,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 3,
+        "Value": 31877,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 4,
+        "Value": 37685,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 5,
+        "Value": 46397,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 6,
+        "Value": 58013,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 7,
+        "Value": 75437,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 8,
+        "Value": 98669,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 9,
+        "Value": 133517,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 10,
+        "Value": 179981,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 11,
+        "Value": 272909,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR04",
+        "Level": 12,
+        "Value": 387712,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 1,
+        "Value": 30674,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 2,
+        "Value": 34302,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 3,
+        "Value": 39744,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 4,
+        "Value": 47000,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 5,
+        "Value": 57884,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 6,
+        "Value": 72396,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 7,
+        "Value": 94164,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 8,
+        "Value": 123188,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 9,
+        "Value": 166724,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 10,
+        "Value": 224772,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 11,
+        "Value": 340868,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "YUR05",
+        "Level": 12,
+        "Value": 484319,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCB01",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCG01",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCR01",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 1,
+        "Value": 20152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 2,
+        "Value": 22392,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 3,
+        "Value": 25752,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 4,
+        "Value": 30232,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 5,
+        "Value": 36952,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 6,
+        "Value": 45912,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 7,
+        "Value": 59352,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 8,
+        "Value": 77272,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 9,
+        "Value": 104152,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 10,
+        "Value": 139992,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 11,
+        "Value": 211672,
+        "NextCardRequire": 0
+    },
+    {
+        "SupportID": "ZCY01",
+        "Level": 12,
+        "Value": 300408,
+        "NextCardRequire": 0
+    }
+]

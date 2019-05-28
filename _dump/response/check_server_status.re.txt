@@ -1,0 +1,10 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_server_status",
+         "status":"success",
+         "status_code":0,
+         "version":"1"
+      }
+   ]
+}

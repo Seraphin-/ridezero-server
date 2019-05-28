@@ -1,0 +1,11 @@
+{  
+    "actions":[  
+        {  
+            "action":"do_support_gacha",
+            "aparams":{  
+                "gachaWay":"STARCUBE_TEN"
+            }
+        }
+    ],
+    "player_id":28
+}

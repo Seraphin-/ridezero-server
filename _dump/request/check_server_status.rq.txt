@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_server_status",
+         "aparams":{  
+            "platform":"apple",
+            "version":"1"
+         }
+      }
+   ]
+}

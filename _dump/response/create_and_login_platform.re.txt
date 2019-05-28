@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"create_and_login_platform",
+         "new_player":false,
+         "player_id":3052449840716010,
+         "status":"success",
+         "status_code":0
+      }
+   ]
+}

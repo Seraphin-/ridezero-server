@@ -1,0 +1,32 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_user_name_and_change_if_free",
+         "playerInfo":{  
+            "AchievementScore":20,
+            "ClearStoryNo":1,
+            "CreateDate":"2017-11-05T22:17:19",
+            "exp":33358,
+            "gold":4422,
+            "IsRating":0,
+            "jewel":0,
+            "Language":null,
+            "LastActionDate":"2017-11-17T02:47:09",
+            "level":4,
+            "MusicByGoldCount":1,
+            "name":"EternityLam",
+            "NameChangeCount":1,
+            "NextResetDaily":"2017-11-18T04:00:00",
+            "NextResetMonthly":"2017-12-01T04:00:00",
+            "NextResetWeekly":"2017-11-20T04:00:00",
+            "OpenStoryNo":1,
+            "SupportByGoldCount":0,
+            "SupportByGoldTime":"2017-11-05T22:19:59",
+            "TutorialNo":2
+         },
+         "status":"success",
+         "status_code":0,
+         "userNameCheckReturn":0
+      }
+   ]
+}

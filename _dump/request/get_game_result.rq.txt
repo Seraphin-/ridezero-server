@@ -1,0 +1,8 @@
+{  
+   "actions":[  
+      {  
+         "action":"get_game_result"
+      }
+   ],
+   "player_id":3052449840716010
+}

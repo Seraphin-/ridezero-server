@@ -1,0 +1,1829 @@
+[
+    {
+        "ItemCode": "BOT_B",
+        "ItemType": 1,
+        "ItemName": "Blue Bottle",
+        "Desc": "ITEM_BottleBlue",
+        "ItemImageFile": "ITEM_BottleBlue"
+    },
+    {
+        "ItemCode": "Chaotic_Coin_A",
+        "ItemType": 1,
+        "ItemName": "ITEM_CHAOTIC_COIN_A",
+        "Desc": "ITEM_CHAOTIC_COIN_DESC",
+        "ItemImageFile": "Chaotic_Coin_High"
+    },
+    {
+        "ItemCode": "Chaotic_Coin_B",
+        "ItemType": 1,
+        "ItemName": "ITEM_CHAOTIC_COIN_B",
+        "Desc": "ITEM_CHAOTIC_COIN_DESC",
+        "ItemImageFile": "Chaotic_Coin_Middle"
+    },
+    {
+        "ItemCode": "Chaotic_Coin_C",
+        "ItemType": 1,
+        "ItemName": "ITEM_CHAOTIC_COIN_C",
+        "Desc": "ITEM_CHAOTIC_COIN_DESC",
+        "ItemImageFile": "Chaotic_Coin_Low"
+    },
+    {
+        "ItemCode": "Co_Mtr_BreadFish",
+        "ItemType": 1,
+        "ItemName": "Item_co_mtr_breadfish",
+        "Desc": "ITEM_BreadFish",
+        "ItemImageFile": "ITEM_BreadFish"
+    },
+    {
+        "ItemCode": "Co_Mtr_Macaron",
+        "ItemType": 1,
+        "ItemName": "ITEM_Co_Mtr_Macaron",
+        "Desc": "Item_Macaron",
+        "ItemImageFile": "Item_Macaron"
+    },
+    {
+        "ItemCode": "Co_Mtr_Mask",
+        "ItemType": 1,
+        "ItemName": "ITEM_Co_Mtr_Mask",
+        "Desc": "ITEM_Gasmask",
+        "ItemImageFile": "ITEM_Gasmask"
+    },
+    {
+        "ItemCode": "Co_Mtr_Milk",
+        "ItemType": 1,
+        "ItemName": "ITEM_Co_Mtr_Milk",
+        "Desc": "Item_Milk",
+        "ItemImageFile": "Item_Milk"
+    },
+    {
+        "ItemCode": "Co_Mtr_Vear",
+        "ItemType": 1,
+        "ItemName": "ITEM_Co_Mtr_Vear",
+        "Desc": "Item_Vear",
+        "ItemImageFile": "Item_Vear"
+    },
+    {
+        "ItemCode": "crystal_01",
+        "ItemType": 1,
+        "ItemName": "ITEM_crystal_01",
+        "Desc": "UI_Item_crystal_01",
+        "ItemImageFile": "UI_Item_crystal_01"
+    },
+    {
+        "ItemCode": "crystal_03",
+        "ItemType": 1,
+        "ItemName": "ITEM_crystal_03",
+        "Desc": "UI_Item_crystal_03",
+        "ItemImageFile": "UI_Item_crystal_03"
+    },
+    {
+        "ItemCode": "DailyPresent",
+        "ItemType": 1,
+        "ItemName": "ITEM_Daily_Present",
+        "Desc": "ITEM_Daily_Present_DESC",
+        "ItemImageFile": "Item_DailyPresent"
+    },
+    {
+        "ItemCode": "Desig_ap01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_AP01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_ap02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_AP02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_ap03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_AP03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_ap04",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_AP04",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_ap05",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_AP05",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Alpha",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_ALPHA",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Another",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_ANOTHER",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Beta",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_BETA",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Blackstar",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_BLACKSTAR",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Bootcamp",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_BOOTCAMP",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Crash",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_CRASH",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Creep",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_CREEP",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Cross",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_CROSS",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Deluxe",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_DELUXE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Disappear",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_DISAPPEAR",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Drill",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_DRILL",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Express",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_EXPRESS",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Flicker",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_FLICKER",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Flip",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_FLIP",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Graze",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_GRAZE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Ground",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_GROUND",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Infiltrate",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_INFILTRATE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Laser",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_LASER",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Massive",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_MASSIVE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Memory",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_MEMORY",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Meteor",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_METEOR",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Metronome",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_METRONOME",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Microcosmos",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_MICROCOSMOS",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Mirrorball",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_MIRRORBALL",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Photosynthesis",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_PHOTOSYNTHESIS",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Reinforce",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_REINFORCE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Royale",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_ROYALE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Shock",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_SHOCK",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Success",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_SUCCESS",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Transform",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_TRANSFORM",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_chaotic_Ultimate",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_CHAOTIC_ULTIMATE",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_count_play01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_COUNT_PLAY01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_count_play02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_COUNT_PLAY02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_count_play03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_COUNT_PLAY03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_count_play04",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_COUNT_PLAY04",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_count_play05",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_COUNT_PLAY05",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_clear01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_CLEAR01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_clear02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_CLEAR02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_clear03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_CLEAR03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_combo01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_COMBO01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_combo02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_COMBO02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_combo03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_COMBO03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_kill01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_KILL01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_kill02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_KILL02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_kill03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_KILL03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_perfect01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PERFECT01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_perfect02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PERFECT02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_perfect03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PERFECT03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_play01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PLAY01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_play02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PLAY02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_emb_play03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EMB_PLAY03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_a1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_A1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_a2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_A2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_b1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_B1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_b2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_B2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_c1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_C1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_c2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_C2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_d1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_D1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_d2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_D2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_e1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_E1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_e2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_E2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_f1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_F1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_episode_f2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_EPISODE_F2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level04",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL04",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level05",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL05",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level06",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL06",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_level07",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_LEVEL07",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1000a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1000A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1000b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1000B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1001a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1001A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1001b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1001B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1003a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1003A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1003b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1003B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1004a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1004A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1004b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1004B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1005a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1005A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1005b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1005B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1007a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1007A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1007b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1007B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1008a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1008A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1008b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1008B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1009a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1009A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1009b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1009B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1011a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1011A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1011b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1011B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta10a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META10A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta10b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META10B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta1b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META1B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2001a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2001A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2001b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2001B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2002a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2002A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2002b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2002B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2003a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2003A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2003b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2003B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2004a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2004A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2004b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2004B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2006a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2006A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2006b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2006B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2007a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2007A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2007b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2007B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2009a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2009A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2009b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2009B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2010a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2010A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2010b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2010B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2011a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2011A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2011b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2011B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2012a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2012A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta2012b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META2012B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3001a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3001A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3001b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3001B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3002a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3002A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3002b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3002B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3003a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3003A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3003b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3003B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3004a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3004A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3004b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3004B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3005a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3005A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3005b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3005B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3006a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3006A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3006b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3006B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3007a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3007A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3007b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3007B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3009a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3009A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3009b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3009B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3011a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3011A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3011b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3011B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3012a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3012A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3012b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3012B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3013a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3013A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3013b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3013B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3014a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3014A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3014b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3014B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3015a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3015A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3015b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3015B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3016a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3016A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3016b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3016B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta3b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META3B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4001a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4001A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4001b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4001B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4003a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4003A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4003b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4003B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4004a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4004A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4004b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4004B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4005a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4005A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4005b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4005B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4006a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4006A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4006b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4006B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4007a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4007A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4007b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4007B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4008a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4008A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4008b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4008B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4009a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4009A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4009b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4009B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta4b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META4B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta5a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META5A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta5b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META5B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta6a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META6A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta6b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META6B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta7a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META7A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta7b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META7B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta8a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META8A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta8b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META8B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta9a",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META9A",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_meta9b",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_META9B",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_collect01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_COLLECT01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_collect02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_COLLECT02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_collect03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_COLLECT03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_emerald01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_EMERALD01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_emerald02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_EMERALD02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_emerald03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_EMERALD03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_ruby01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_RUBY01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_ruby02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_RUBY02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_ruby03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_RUBY03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_sapphire01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_SAPPHIRE01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_sapphire02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_SAPPHIRE02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_sapphire03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_SAPPHIRE03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_topaz01",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_TOPAZ01",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_topaz02",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_TOPAZ02",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_spt_topaz03",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_SPT_TOPAZ03",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage1",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE1",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage10",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE10",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage2",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE2",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage3",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE3",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage4",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE4",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage5",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE5",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage6",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE6",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage7",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE7",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage8",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE8",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Desig_Stage9",
+        "ItemType": 7,
+        "ItemName": "ITEM_DESIG_STAGE9",
+        "Desc": "",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "Fabric_1",
+        "ItemType": 1,
+        "ItemName": "ITEM_Fabric_1",
+        "Desc": "ITEM_Fabric_1_DESC",
+        "ItemImageFile": "Item_Fabric01"
+    },
+    {
+        "ItemCode": "Fabric_2",
+        "ItemType": 1,
+        "ItemName": "ITEM_Fabric_2",
+        "Desc": "ITEM_Fabric_2_DESC",
+        "ItemImageFile": "Item_Fabric02"
+    },
+    {
+        "ItemCode": "Fabric_3",
+        "ItemType": 1,
+        "ItemName": "ITEM_Fabric_3",
+        "Desc": "ITEM_Fabric_3_DESC",
+        "ItemImageFile": "Item_Fabric03"
+    },
+    {
+        "ItemCode": "GOLD",
+        "ItemType": 3,
+        "ItemName": "ITEM_GOLD",
+        "Desc": "ITEM_GOLD_DESC",
+        "ItemImageFile": "Gold_3"
+    },
+    {
+        "ItemCode": "Iron_01",
+        "ItemType": 1,
+        "ItemName": "ITEM_Iron_01",
+        "Desc": "UI_Item_iron_01",
+        "ItemImageFile": "UI_Item_iron_01"
+    },
+    {
+        "ItemCode": "Mic_1",
+        "ItemType": 1,
+        "ItemName": "ITEM_Mic_1",
+        "Desc": "ITEM_Mic_1_DESC",
+        "ItemImageFile": "Item_Mic01"
+    },
+    {
+        "ItemCode": "Mic_2",
+        "ItemType": 1,
+        "ItemName": "ITEM_Mic_2",
+        "Desc": "ITEM_Mic_2_DESC",
+        "ItemImageFile": "Item_Mic02"
+    },
+    {
+        "ItemCode": "Mic_3",
+        "ItemType": 1,
+        "ItemName": "ITEM_Mic_3",
+        "Desc": "ITEM_Mic_3_DESC",
+        "ItemImageFile": "Item_Mic03"
+    },
+    {
+        "ItemCode": "Music_Disc",
+        "ItemType": 1,
+        "ItemName": "ITEM_Music_Disc",
+        "Desc": "ITEM_Music_Disc",
+        "ItemImageFile": "Item_Music_Disc"
+    },
+    {
+        "ItemCode": "Name_Change_Ticket",
+        "ItemType": 8,
+        "ItemName": "ITEM_Name_Change_Ticket",
+        "Desc": null,
+        "ItemImageFile": null
+    },
+    {
+        "ItemCode": "Pass_Ads",
+        "ItemType": 1,
+        "ItemName": "ITEM_Pass_Ads",
+        "Desc": "ITEM_Pass_Ads_DESC",
+        "ItemImageFile": "Item_Engine"
+    },
+    {
+        "ItemCode": "Piece_Song",
+        "ItemType": 1,
+        "ItemName": "ITEM_Piece_Song",
+        "Desc": "MusicPiece",
+        "ItemImageFile": "MusicPiece"
+    },
+    {
+        "ItemCode": "Ranking_Medal",
+        "ItemType": 1,
+        "ItemName": "ITEM_Ranking_Medal",
+        "Desc": "ITEM_Ticket_Song_Desc",
+        "ItemImageFile": "Item_RankingMedal"
+    },
+    {
+        "ItemCode": "ResultSkin_Gold",
+        "ItemType": 5,
+        "ItemName": "ITEM_ResultSkin_Gold",
+        "Desc": "ITEM_ResultSkin_Gold_DESC",
+        "ItemImageFile": "Item_Package_Gold"
+    },
+    {
+        "ItemCode": "ResultSkin_Platinum",
+        "ItemType": 5,
+        "ItemName": "ITEM_ResultSkin_Platinum",
+        "Desc": "ITEM_ResultSkin_Platinum_DESC",
+        "ItemImageFile": "Item_Package_Platinum"
+    },
+    {
+        "ItemCode": "ResultSkin_Start",
+        "ItemType": 5,
+        "ItemName": "ITEM_ResultSkin_Start",
+        "Desc": "ITEM_ResultSkin_Start_DESC",
+        "ItemImageFile": "Item_Package_Starter"
+    },
+    {
+        "ItemCode": "Song_10",
+        "ItemType": 11,
+        "ItemName": "10",
+        "Desc": "ITEM_SONG_10_DESC",
+        "ItemImageFile": "Item_Alvadrakt"
+    },
+    {
+        "ItemCode": "Song_1000",
+        "ItemType": 11,
+        "ItemName": "1000",
+        "Desc": "ITEM_SONG_1000_DESC",
+        "ItemImageFile": "Item_Breach"
+    },
+    {
+        "ItemCode": "Song_2005",
+        "ItemType": 11,
+        "ItemName": "2005",
+        "Desc": "ITEM_SONG_2005_DESC",
+        "ItemImageFile": "Item_ToyBoxOptimization"
+    },
+    {
+        "ItemCode": "Song_2007",
+        "ItemType": 11,
+        "ItemName": "2007",
+        "Desc": "ITEM_SONG_2007_DESC",
+        "ItemImageFile": "Item_SummerVoid"
+    },
+    {
+        "ItemCode": "Song_2009",
+        "ItemType": 11,
+        "ItemName": "2009",
+        "Desc": "ITEM_SONG_2009_DESC",
+        "ItemImageFile": "Item_Titanomachia"
+    },
+    {
+        "ItemCode": "Song_2010",
+        "ItemType": 11,
+        "ItemName": "2010",
+        "Desc": "ITEM_SONG_2010_DESC",
+        "ItemImageFile": "Item_CyberDeepSea"
+    },
+    {
+        "ItemCode": "Song_2011",
+        "ItemType": 11,
+        "ItemName": "2011",
+        "Desc": "ITEM_SONG_2011_DESC",
+        "ItemImageFile": "Item_SoulofCyber"
+    },
+    {
+        "ItemCode": "Song_2012",
+        "ItemType": 11,
+        "ItemName": "2012",
+        "Desc": "ITEM_SONG_2012_DESC",
+        "ItemImageFile": "Item_KnotsWay"
+    },
+    {
+        "ItemCode": "Song_3004",
+        "ItemType": 11,
+        "ItemName": "3004",
+        "Desc": "ITEM_SONG_3004_DESC",
+        "ItemImageFile": "Item_TheZero"
+    },
+    {
+        "ItemCode": "Song_3006",
+        "ItemType": 11,
+        "ItemName": "3006",
+        "Desc": "ITEM_SONG_3006_DESC",
+        "ItemImageFile": "Item_FadingLight"
+    },
+    {
+        "ItemCode": "Song_3009",
+        "ItemType": 11,
+        "ItemName": "3009",
+        "Desc": "ITEM_SONG_3009_DESC",
+        "ItemImageFile": "Item_Ohayou"
+    },
+    {
+        "ItemCode": "Song_Ticket",
+        "ItemType": 1,
+        "ItemName": "ITEM_Song_Ticket",
+        "Desc": "NULL",
+        "ItemImageFile": ""
+    },
+    {
+        "ItemCode": "StarCube",
+        "ItemType": 4,
+        "ItemName": "ITEM_STARCUBE",
+        "Desc": "ITEM_STARCUBE_DESC",
+        "ItemImageFile": "Item_StarCube"
+    },
+    {
+        "ItemCode": "Steel_1",
+        "ItemType": 1,
+        "ItemName": "ITEM_Steel_1",
+        "Desc": "ITEM_Steel_1_DESC",
+        "ItemImageFile": "Item_Steel01"
+    },
+    {
+        "ItemCode": "Steel_2",
+        "ItemType": 1,
+        "ItemName": "ITEM_Steel_2",
+        "Desc": "ITEM_Steel_2_DESC",
+        "ItemImageFile": "Item_Steel02"
+    },
+    {
+        "ItemCode": "Steel_3",
+        "ItemType": 1,
+        "ItemName": "ITEM_Steel_3",
+        "Desc": "ITEM_Steel_3_DESC",
+        "ItemImageFile": "Item_Steel03"
+    },
+    {
+        "ItemCode": "Story_Card_10",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_10",
+        "Desc": "ITEM_Story_Card_10_DESC",
+        "ItemImageFile": "Story_Key_10"
+    },
+    {
+        "ItemCode": "Story_Card_2",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_2",
+        "Desc": "ITEM_Story_Card_2_DESC",
+        "ItemImageFile": "Story_Key_2"
+    },
+    {
+        "ItemCode": "Story_Card_3",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_3",
+        "Desc": "ITEM_Story_Card_3_DESC",
+        "ItemImageFile": "Story_Key_3"
+    },
+    {
+        "ItemCode": "Story_Card_4",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_4",
+        "Desc": "ITEM_Story_Card_4_DESC",
+        "ItemImageFile": "Story_Key_4"
+    },
+    {
+        "ItemCode": "Story_Card_5",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_5",
+        "Desc": "ITEM_Story_Card_5_DESC",
+        "ItemImageFile": "Story_Key_5"
+    },
+    {
+        "ItemCode": "Story_Card_6",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_6",
+        "Desc": "ITEM_Story_Card_6_DESC",
+        "ItemImageFile": "Story_Key_6"
+    },
+    {
+        "ItemCode": "Story_Card_7",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_7",
+        "Desc": "ITEM_Story_Card_7_DESC",
+        "ItemImageFile": "Story_Key_7"
+    },
+    {
+        "ItemCode": "Story_Card_8",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_8",
+        "Desc": "ITEM_Story_Card_8_DESC",
+        "ItemImageFile": "Story_Key_8"
+    },
+    {
+        "ItemCode": "Story_Card_9",
+        "ItemType": 10,
+        "ItemName": "ITEM_Story_Card_9",
+        "Desc": "ITEM_Story_Card_9_DESC",
+        "ItemImageFile": "Story_Key_9"
+    },
+    {
+        "ItemCode": "St_Mtr_ConcertTicket",
+        "ItemType": 1,
+        "ItemName": "ITEM_St_Mtr_ConcertTicket",
+        "Desc": "Item_ConcertTicket",
+        "ItemImageFile": "Item_ConcertTicket"
+    },
+    {
+        "ItemCode": "St_Mtr_Engine",
+        "ItemType": 1,
+        "ItemName": "ITEM_St_Mtr_Engine",
+        "Desc": "Item_Engine",
+        "ItemImageFile": "Item_Engine"
+    },
+    {
+        "ItemCode": "St_Mtr_ID",
+        "ItemType": 1,
+        "ItemName": "ITEM_St_Mtr_ID",
+        "Desc": "Item_idcard",
+        "ItemImageFile": "Item_idcard"
+    },
+    {
+        "ItemCode": "St_Mtr_PaperBox",
+        "ItemType": 1,
+        "ItemName": "ITEM_St_Mtr_PaperBox",
+        "Desc": "Item_PaperBox",
+        "ItemImageFile": "Item_PaperBox"
+    },
+    {
+        "ItemCode": "St_Mtr_Screw",
+        "ItemType": 1,
+        "ItemName": "ITEM_St_Mtr_Screw",
+        "Desc": "Item_Screw",
+        "ItemImageFile": "Item_Screw"
+    },
+    {
+        "ItemCode": "Support_Ticket",
+        "ItemType": 1,
+        "ItemName": "ITEM_Support_Ticket",
+        "Desc": "ITEM_Support_Ticket_DESC",
+        "ItemImageFile": "Item_SupporterTicket"
+    },
+    {
+        "ItemCode": "Ticket_Package",
+        "ItemType": 1,
+        "ItemName": "ITEM_Ticket_Package",
+        "Desc": "ITEM_Ticket_Package_DESC",
+        "ItemImageFile": "Item_idcard"
+    },
+    {
+        "ItemCode": "Ticket_Song",
+        "ItemType": 1,
+        "ItemName": "ITEM_Ticket_Song",
+        "Desc": "NULL",
+        "ItemImageFile": "Item_TicketSong"
+    }
+]

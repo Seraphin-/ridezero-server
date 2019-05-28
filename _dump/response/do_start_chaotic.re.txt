@@ -1,0 +1,9 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_start_chaotic",
+         "status":"NEED_ITEM",
+         "status_code":0
+      }
+   ]
+}

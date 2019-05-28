@@ -1,0 +1,14 @@
+{  
+   "actions":[  
+      {  
+         "action":"create_and_login_platform",
+         "aparams":{  
+            "pid":0,
+            "platform":"FB",
+            "id":"10214956887223482",
+            "username":"10214956887223482"
+         }
+      }
+   ],
+   "player_id":0
+}

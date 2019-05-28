@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"check_update_table",
+         "aparams":{  
+
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

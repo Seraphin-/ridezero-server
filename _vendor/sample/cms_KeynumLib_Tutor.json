@@ -1,0 +1,236 @@
+[
+    {
+        "keyNum": "A0",
+        "startPosIndex": 0,
+        "endPosIndex": 0,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A1",
+        "startPosIndex": 0,
+        "endPosIndex": 1,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A2",
+        "startPosIndex": 0,
+        "endPosIndex": 2,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A3",
+        "startPosIndex": 0,
+        "endPosIndex": 3,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A4",
+        "startPosIndex": 0,
+        "endPosIndex": 4,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A5",
+        "startPosIndex": 0,
+        "endPosIndex": 5,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A6",
+        "startPosIndex": 0,
+        "endPosIndex": 6,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A7",
+        "startPosIndex": 0,
+        "endPosIndex": 7,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "A8",
+        "startPosIndex": 0,
+        "endPosIndex": 8,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AA",
+        "startPosIndex": 0,
+        "endPosIndex": 0,
+        "shotEventIndex": 1,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AB",
+        "startPosIndex": 0,
+        "endPosIndex": 0,
+        "shotEventIndex": 2,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AE",
+        "startPosIndex": 0,
+        "endPosIndex": 2,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AF",
+        "startPosIndex": 1,
+        "endPosIndex": 6,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AX",
+        "startPosIndex": 0,
+        "endPosIndex": 3,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "AY",
+        "startPosIndex": 1,
+        "endPosIndex": 5,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B0",
+        "startPosIndex": 1,
+        "endPosIndex": 0,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B1",
+        "startPosIndex": 1,
+        "endPosIndex": 1,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B2",
+        "startPosIndex": 1,
+        "endPosIndex": 2,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B3",
+        "startPosIndex": 1,
+        "endPosIndex": 3,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B4",
+        "startPosIndex": 1,
+        "endPosIndex": 4,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B5",
+        "startPosIndex": 1,
+        "endPosIndex": 5,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B6",
+        "startPosIndex": 1,
+        "endPosIndex": 6,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B7",
+        "startPosIndex": 1,
+        "endPosIndex": 7,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "B8",
+        "startPosIndex": 1,
+        "endPosIndex": 8,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.3
+    },
+    {
+        "keyNum": "C1",
+        "startPosIndex": 0,
+        "endPosIndex": 8,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.1
+    },
+    {
+        "keyNum": "C2",
+        "startPosIndex": 1,
+        "endPosIndex": 0,
+        "shotEventIndex": 0,
+        "enemyStartPos": 11,
+        "durationIsStartSec": "FALSE",
+        "duration": 2.1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "laneNum": 0,
+        "noteType": "LongStartType1",
+        "weaponType": "1"
+    },
+    {
+        "laneNum": 1,
+        "noteType": "LongStartType1",
+        "weaponType": "1"
+    },
+    {
+        "laneNum": 2,
+        "noteType": "SlideLeft",
+        "weaponType": "-"
+    },
+    {
+        "laneNum": 3,
+        "noteType": "SlideRight",
+        "weaponType": "-"
+    },
+    {
+        "laneNum": 4,
+        "noteType": "NormalType1",
+        "weaponType": "1"
+    },
+    {
+        "laneNum": 5,
+        "noteType": "NormalType1",
+        "weaponType": "1"
+    },
+    {
+        "laneNum": 6,
+        "noteType": "DragTick",
+        "weaponType": "2"
+    },
+    {
+        "laneNum": 7,
+        "noteType": "DragTick",
+        "weaponType": "2"
+    },
+    {
+        "laneNum": 8,
+        "noteType": "RollStart",
+        "weaponType": "2"
+    },
+    {
+        "laneNum": 9,
+        "noteType": "RollStart",
+        "weaponType": "2"
+    },
+    {
+        "laneNum": 10,
+        "noteType": "NormalType1",
+        "weaponType": "2"
+    },
+    {
+        "laneNum": 11,
+        "noteType": "NormalType1",
+        "weaponType": "2"
+    }
+]

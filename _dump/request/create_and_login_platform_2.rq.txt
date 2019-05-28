@@ -1,0 +1,14 @@
+{  
+    "actions":[  
+        {  
+            "action":"create_and_login_platform",
+            "aparams":{  
+                "pid":0,
+                "platform":"AP",
+                "id":"G:414490637",
+                "username":"Dieam hk"
+            }
+        }
+    ],
+    "player_id":0
+}

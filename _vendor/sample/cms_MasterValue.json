@@ -1,0 +1,262 @@
+[
+    {
+        "KeyCode": "BANNER_SHOP01",
+        "Value": "DLC_CANO_main",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "BANNER_SHOP02",
+        "Value": "DLC_EDGE_main",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "BANNER_SHOP03",
+        "Value": "DLC_VIVID_main",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "BANNER_SHOP04",
+        "Value": "DLC_MILD_main",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "BANNER_SHOP05",
+        "Value": "Notice_GACHA",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "CBT_IS_CBT_SERVICE_CLOSED",
+        "Value": "NO",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "CBT_LINK_CBT_CLOSE_ENDPOINT",
+        "Value": "http://facebook.com/ridezero",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "CBT_LINK_GANE_SURVEY",
+        "Value": "http://facebook.com/ridezero",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "COUPON_DISPLAY_APPLE",
+        "Value": "0",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "COUPON_DISPLAY_GOOGLE",
+        "Value": "1",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FIRST_BUYMUSIC_CN",
+        "Value": "1009",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FIRST_BUYMUSIC_EN",
+        "Value": "1005",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FIRST_BUYMUSIC_JP",
+        "Value": "1009",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FIRST_BUYMUSIC_KR",
+        "Value": "3007",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FREE_ROTAION_ARCADE_01",
+        "Value": "4001",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FREE_ROTAION_ARCADE_02",
+        "Value": "4001",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FREE_ROTAION_ARCADE_03",
+        "Value": "4001",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FREE_ROTAION_ARCADE_04",
+        "Value": "4001",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "FREE_ROTAION_ARCADE_05",
+        "Value": "4001",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "GACHA_PRICE_ONE",
+        "Value": "20",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "GACHA_PRICE_TEN",
+        "Value": "200",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "NAME_CHANGE_PRICE",
+        "Value": "20",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "RATE_STORE_APPLE",
+        "Value": "itms-apps://itunes.apple.com/gb/app/id1142046923?action=write-review&mt=8",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "RATE_STORE_GOOGLE",
+        "Value": "http://play.google.com/store/apps/details?id=com.loadcomplete.RideZero",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "RATE_STORE_XINDONG",
+        "Value": "http://www.baidu.com",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SERVER_STATUS",
+        "Value": "success",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SERVER_STATUS_MSG",
+        "Value": "점검중입니다.\\n완료시간 : 미정,Maintenance.\\nEndTime : ,[CN]Maintenance\\nEndTime : ,[TW]Maintenance\\nEndTime : ,[JP]Maintenance\\nEndTime : ",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SERVICE_MAIL",
+        "Value": "ridezero_cs@loadcomplete.com",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SHARE_LINK_APPLE",
+        "Value": "https://itunes.apple.com/us/app/ride-zero/id1142046923",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SHARE_LINK_GOOGLE",
+        "Value": "http://play.google.com/store/apps/details?id=com.loadcomplete.RideZero",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SHARE_LINK_TAPTAP",
+        "Value": "http://www.taptap.com/app/13749",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SHOW_NOTICE_ON_START",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "STANDARD_MUSIC_STARCUBE_PRICE",
+        "Value": "50",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SUPPOTER_BONUS_PERCENT_STD",
+        "Value": "40",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "SUPPOTER_NONUS_NARROW_COUNT",
+        "Value": "40000",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "UPDATE_APPLE_STORE",
+        "Value": "https://itunes.apple.com/us/app/ride-zero/id1142046923",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "UPDATE_APPLE_VER",
+        "Value": "2",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "UPDATE_GOOGLE_STORE",
+        "Value": "http://play.google.com/store/apps/details?id=com.loadcomplete.RideZero",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "UPDATE_GOOGLE_VER",
+        "Value": "2",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "USER_REWARD_THUMB_2007",
+        "Value": "Chaotic_summervoid",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "USER_REWARD_THUMB_2010",
+        "Value": "Chaotic_CyberDeepSea",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "USER_REWARD_THUMB_2011",
+        "Value": "Chaotic_Soul",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "USER_REWARD_THUMB_2012",
+        "Value": "Chaotic_KnotsWay",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "USER_REWARD_THUMB_3006",
+        "Value": "Chaotic_FadingLight",
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_0",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_1",
+        "Value": null,
+        "IntValue": 15631
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_2",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_3",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_4",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_COUNT_6",
+        "Value": null,
+        "IntValue": 0
+    },
+    {
+        "KeyCode": "WEEKLY_RANKING_PHASE",
+        "Value": "",
+        "IntValue": 0
+    }
+]

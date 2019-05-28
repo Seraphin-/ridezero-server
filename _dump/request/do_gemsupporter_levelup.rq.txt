@@ -1,0 +1,25 @@
+{  
+    "actions":[  
+        {  
+            "action":"do_gemsupporter_levelup",
+            "aparams":{  
+                "supportID":"ZCB01",
+                "materialList":[  
+                    {  
+                        "supportID":"RRR01",
+                        "count":1
+                    },
+                    {  
+                        "supportID":"SER01",
+                        "count":1
+                    },
+                    {  
+                        "supportID":"VVV01",
+                        "count":1
+                    }
+                ]
+            }
+        }
+    ],
+    "player_id":3052449840716010
+}

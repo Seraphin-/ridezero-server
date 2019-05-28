@@ -1,0 +1,19 @@
+POST /game/action/ HTTP/1.1
+Host: rz12-1672000475.ap-northeast-2.elb.amazonaws.com:80
+Content-Type: application/x-www-form-urlencoded
+User-Agent: RideZero/53 CFNetwork/808.1.4 Darwin/16.1.0
+Connection: keep-alive
+Accept: */*
+Accept-Language: ja-jp
+Content-Length: 211
+Accept-Encoding: gzip, deflate
+X-Unity-Version: 5.5.2f1
+
+{  
+   "actions":[  
+      {  
+         "action":"get_rank_info"
+      }
+   ],
+   "player_id":3052449840716010
+}

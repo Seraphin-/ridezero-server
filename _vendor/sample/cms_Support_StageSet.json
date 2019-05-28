@@ -1,0 +1,380 @@
+[
+    {
+        "MusicNo": 1,
+        "Left": "ZCR01",
+        "LeftMid": "STA01",
+        "RightMid": "STA07",
+        "Right": "STA08"
+    },
+    {
+        "MusicNo": 3,
+        "Left": "ZCB01",
+        "LeftMid": "VVV04",
+        "RightMid": "VVV05",
+        "Right": "VVV06"
+    },
+    {
+        "MusicNo": 4,
+        "Left": "ZCY01",
+        "LeftMid": "RRR05",
+        "RightMid": "SPI04",
+        "Right": "VVV08"
+    },
+    {
+        "MusicNo": 5,
+        "Left": "ZCR01",
+        "LeftMid": "SPI02",
+        "RightMid": "SPI05",
+        "Right": "SPI06"
+    },
+    {
+        "MusicNo": 6,
+        "Left": "ZCG01",
+        "LeftMid": "STA02",
+        "RightMid": "STA03",
+        "Right": "CAR04"
+    },
+    {
+        "MusicNo": 7,
+        "Left": "ZCB01",
+        "LeftMid": "SER01",
+        "RightMid": "SER02",
+        "Right": "SER06"
+    },
+    {
+        "MusicNo": 8,
+        "Left": "ZCY01",
+        "LeftMid": "YUR03",
+        "RightMid": "YUR04",
+        "Right": "SPIRO"
+    },
+    {
+        "MusicNo": 9,
+        "Left": "ZCR01",
+        "LeftMid": "MEW01",
+        "RightMid": "CAR02",
+        "Right": "CAR04"
+    },
+    {
+        "MusicNo": 10,
+        "Left": "ZCG01",
+        "LeftMid": "YUR02",
+        "RightMid": "STA07",
+        "Right": "STA08"
+    },
+    {
+        "MusicNo": 1000,
+        "Left": "ZCB01",
+        "LeftMid": "CAN02",
+        "RightMid": "CAR03",
+        "Right": "RRR06"
+    },
+    {
+        "MusicNo": 1001,
+        "Left": "ZCY01",
+        "LeftMid": "RRR02",
+        "RightMid": "RRR06",
+        "Right": "RRR08"
+    },
+    {
+        "MusicNo": 1002,
+        "Left": "ZCR01",
+        "LeftMid": "ZCG01",
+        "RightMid": "ZCB01",
+        "Right": "ZCY01"
+    },
+    {
+        "MusicNo": 1003,
+        "Left": "ZCR01",
+        "LeftMid": "SPI01",
+        "RightMid": "SPI06",
+        "Right": "SPIRO"
+    },
+    {
+        "MusicNo": 1004,
+        "Left": "ZCG01",
+        "LeftMid": "CAN01",
+        "RightMid": "CAN06",
+        "Right": "CAN07"
+    },
+    {
+        "MusicNo": 1005,
+        "Left": "ZCB01",
+        "LeftMid": "STA04",
+        "RightMid": "STA05",
+        "Right": "CAN05"
+    },
+    {
+        "MusicNo": 1007,
+        "Left": "ZCY01",
+        "LeftMid": "RRR03",
+        "RightMid": "CAN05",
+        "Right": "STA07"
+    },
+    {
+        "MusicNo": 1008,
+        "Left": "ZCR01",
+        "LeftMid": "CAN03",
+        "RightMid": "CAN06",
+        "Right": "MEW06"
+    },
+    {
+        "MusicNo": 1009,
+        "Left": "ZCG01",
+        "LeftMid": "MEW02",
+        "RightMid": "MEW03",
+        "Right": "MEW08"
+    },
+    {
+        "MusicNo": 1011,
+        "Left": "ZCB01",
+        "LeftMid": "RRR03",
+        "RightMid": "RRR07",
+        "Right": "RRR08"
+    },
+    {
+        "MusicNo": 2001,
+        "Left": "ZCY01",
+        "LeftMid": "MEW04",
+        "RightMid": "MEW05",
+        "Right": "MEW08"
+    },
+    {
+        "MusicNo": 2002,
+        "Left": "ZCR01",
+        "LeftMid": "VVV02",
+        "RightMid": "RRR06",
+        "Right": "RRR07"
+    },
+    {
+        "MusicNo": 2003,
+        "Left": "ZCG01",
+        "LeftMid": "SPI02",
+        "RightMid": "SPI07",
+        "Right": "SPI08"
+    },
+    {
+        "MusicNo": 2004,
+        "Left": "ZCB01",
+        "LeftMid": "RRR01",
+        "RightMid": "CAN04",
+        "Right": "CAN07"
+    },
+    {
+        "MusicNo": 2005,
+        "Left": "ZCY01",
+        "LeftMid": "VVV01",
+        "RightMid": "VVV07",
+        "Right": "VVV09"
+    },
+    {
+        "MusicNo": 2006,
+        "Left": "ZCR01",
+        "LeftMid": "YUR01",
+        "RightMid": "STA02",
+        "Right": "STA08"
+    },
+    {
+        "MusicNo": 2007,
+        "Left": "ZCG01",
+        "LeftMid": "VVV02",
+        "RightMid": "VVV06",
+        "Right": "VVV08"
+    },
+    {
+        "MusicNo": 2009,
+        "Left": "ZCB01",
+        "LeftMid": "YUR03",
+        "RightMid": "YUR04",
+        "Right": "CAR03"
+    },
+    {
+        "MusicNo": 2010,
+        "Left": "ZCY01",
+        "LeftMid": "POP01",
+        "RightMid": "COM01",
+        "Right": "TOT01"
+    },
+    {
+        "MusicNo": 2011,
+        "Left": "ZCR01",
+        "LeftMid": "POP01",
+        "RightMid": "TOT01",
+        "Right": "COM01"
+    },
+    {
+        "MusicNo": 2012,
+        "Left": "ZCG01",
+        "LeftMid": "SER03",
+        "RightMid": "SER04",
+        "Right": "SER05"
+    },
+    {
+        "MusicNo": 3001,
+        "Left": "ZCB01",
+        "LeftMid": "RRR04",
+        "RightMid": "SPI05",
+        "Right": "VVV07"
+    },
+    {
+        "MusicNo": 3002,
+        "Left": "ZCY01",
+        "LeftMid": "SER03",
+        "RightMid": "SER05",
+        "Right": "SER06"
+    },
+    {
+        "MusicNo": 3003,
+        "Left": "ZCR01",
+        "LeftMid": "MEW02",
+        "RightMid": "VVV04",
+        "Right": "SPI08"
+    },
+    {
+        "MusicNo": 3004,
+        "Left": "ZCG01",
+        "LeftMid": "VVV03",
+        "RightMid": "VVV05",
+        "Right": "VVV09"
+    },
+    {
+        "MusicNo": 3005,
+        "Left": "ZCB01",
+        "LeftMid": "CAR01",
+        "RightMid": "SPI03",
+        "Right": "SPI07"
+    },
+    {
+        "MusicNo": 3006,
+        "Left": "ZCY01",
+        "LeftMid": "RRR04",
+        "RightMid": "RRR05",
+        "Right": "YUR05"
+    },
+    {
+        "MusicNo": 3007,
+        "Left": "ZCR01",
+        "LeftMid": "ZCG01",
+        "RightMid": "ZCB01",
+        "Right": "ZCY01"
+    },
+    {
+        "MusicNo": 3009,
+        "Left": "ZCR01",
+        "LeftMid": "ZCG01",
+        "RightMid": "ZCB01",
+        "Right": "ZCY01"
+    },
+    {
+        "MusicNo": 3011,
+        "Left": "ZCG01",
+        "LeftMid": "STA04",
+        "RightMid": "STA06",
+        "Right": "RRR07"
+    },
+    {
+        "MusicNo": 3012,
+        "Left": "ZCR01",
+        "LeftMid": "MEW03",
+        "RightMid": "MEW06",
+        "Right": "MEW07"
+    },
+    {
+        "MusicNo": 3013,
+        "Left": "ZCG01",
+        "LeftMid": "SER01",
+        "RightMid": "SER04",
+        "Right": "MEW07"
+    },
+    {
+        "MusicNo": 3014,
+        "Left": "ZCB01",
+        "LeftMid": "COM01",
+        "RightMid": "POP01",
+        "Right": "TOT01"
+    },
+    {
+        "MusicNo": 3015,
+        "Left": "ZCY01",
+        "LeftMid": "CAR01",
+        "RightMid": "CAR02",
+        "Right": "CAR04"
+    },
+    {
+        "MusicNo": 3016,
+        "Left": "ZCG01",
+        "LeftMid": "CAN01",
+        "RightMid": "CAN06",
+        "Right": "CAN07"
+    },
+    {
+        "MusicNo": 4001,
+        "Left": "MEW01",
+        "LeftMid": "MEW05",
+        "RightMid": "STA05",
+        "Right": "YUR05"
+    },
+    {
+        "MusicNo": 4003,
+        "Left": "ZCG01",
+        "LeftMid": "STA03",
+        "RightMid": "STA06",
+        "Right": "VVV08"
+    },
+    {
+        "MusicNo": 4004,
+        "Left": "ZCR01",
+        "LeftMid": "RRR07",
+        "RightMid": "STA04",
+        "Right": "RRR02"
+    },
+    {
+        "MusicNo": 4005,
+        "Left": "ZCY01",
+        "LeftMid": "SPI08",
+        "RightMid": "YUR04",
+        "Right": "VVV03"
+    },
+    {
+        "MusicNo": 4006,
+        "Left": "ZCG01",
+        "LeftMid": "STA01",
+        "RightMid": "RRR02",
+        "Right": "SPI01"
+    },
+    {
+        "MusicNo": 4007,
+        "Left": "ZCB01",
+        "LeftMid": "VVV01",
+        "RightMid": "RRR01",
+        "Right": "YUR02"
+    },
+    {
+        "MusicNo": 4008,
+        "Left": "ZCR01",
+        "LeftMid": "SPI01",
+        "RightMid": "YUR02",
+        "Right": "RRR01"
+    },
+    {
+        "MusicNo": 4009,
+        "Left": "ZCB01",
+        "LeftMid": "RRR08",
+        "RightMid": "SPI04",
+        "Right": "RRR02"
+    },
+    {
+        "MusicNo": 9001,
+        "Left": "ZCR01",
+        "LeftMid": "ZCG01",
+        "RightMid": "ZCB01",
+        "Right": "ZCY01"
+    },
+    {
+        "MusicNo": 9002,
+        "Left": "ZCR01",
+        "LeftMid": "ZCG01",
+        "RightMid": "ZCB01",
+        "Right": "ZCY01"
+    }
+]

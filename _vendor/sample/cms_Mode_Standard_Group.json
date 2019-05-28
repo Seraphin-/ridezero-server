@@ -1,0 +1,32 @@
+[
+    {
+        "GroupNo": 10,
+        "GroupName": "ALL MUSIC",
+        "SortOrder": 10
+    },
+    {
+        "GroupNo": 20,
+        "GroupName": "GRADE",
+        "SortOrder": 20
+    },
+    {
+        "GroupNo": 30,
+        "GroupName": "STORY",
+        "SortOrder": 30
+    },
+    {
+        "GroupNo": 40,
+        "GroupName": "EPISODE",
+        "SortOrder": 40
+    },
+    {
+        "GroupNo": 50,
+        "GroupName": "LIBERATION",
+        "SortOrder": 50
+    },
+    {
+        "GroupNo": 60,
+        "GroupName": "ETC",
+        "SortOrder": 60
+    }
+]

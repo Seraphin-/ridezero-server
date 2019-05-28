@@ -1,0 +1,11 @@
+{  
+   "actions":[  
+      {  
+         "action":"set_rating_status",
+         "aparams":{  
+            "ratingStatus":3
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

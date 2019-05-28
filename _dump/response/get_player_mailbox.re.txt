@@ -1,0 +1,12 @@
+{  
+   "actions":[  
+      {  
+         "action":"get_player_mailbox",
+         "mailList":[  
+
+         ],
+         "status":"success",
+         "status_code":0
+      }
+   ]
+}

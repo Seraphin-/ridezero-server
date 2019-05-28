@@ -1,0 +1,7 @@
+{  
+    "actions":[  
+        {  
+            "action":"create_and_login"
+        }
+    ]
+}

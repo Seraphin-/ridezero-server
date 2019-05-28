@@ -1,0 +1,30 @@
+[
+    {
+        "TargetID": 2,
+        "TargetValue": 0,
+        "UnlockConditionID": 7,
+        "UnlockValue": 0,
+        "UnlockQuantity": 1
+    },
+    {
+        "TargetID": 3,
+        "TargetValue": 0,
+        "UnlockConditionID": 7,
+        "UnlockValue": 0,
+        "UnlockQuantity": 1
+    },
+    {
+        "TargetID": 4,
+        "TargetValue": 0,
+        "UnlockConditionID": 7,
+        "UnlockValue": 0,
+        "UnlockQuantity": 3
+    },
+    {
+        "TargetID": 5,
+        "TargetValue": 0,
+        "UnlockConditionID": 1,
+        "UnlockValue": 0,
+        "UnlockQuantity": 6
+    }
+]

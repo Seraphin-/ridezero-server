@@ -1,0 +1,12 @@
+{  
+   "actions":[  
+      {  
+         "action":"report_flag_change",
+         "aparams":{  
+            "flagKey":"isNotFirstPlay",
+            "flagValue":1
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}

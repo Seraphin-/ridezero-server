@@ -1,0 +1,345 @@
+[
+    {
+        "Tier": 1,
+        "RewardNum": 0,
+        "ItemCode": "Ranking_Medal",
+        "ItemCount": 1,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 1,
+        "ItemCode": "StarCube",
+        "ItemCount": 250,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 50000,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 6,
+        "ItemCode": "Fabric_3",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 8,
+        "ItemCode": "Steel_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 1,
+        "RewardNum": 9,
+        "ItemCode": "Steel_3",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_1_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 0,
+        "ItemCode": "Ranking_Medal",
+        "ItemCount": 1,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 1,
+        "ItemCode": "StarCube",
+        "ItemCount": 150,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 15,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 25000,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 6,
+        "ItemCode": "Fabric_3",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 8,
+        "ItemCode": "Steel_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 2,
+        "RewardNum": 9,
+        "ItemCode": "Steel_3",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_2_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 0,
+        "ItemCode": "Ranking_Medal",
+        "ItemCount": 1,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 1,
+        "ItemCode": "StarCube",
+        "ItemCount": 50,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 12,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 10000,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 6,
+        "ItemCode": "Fabric_3",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 8,
+        "ItemCode": "Steel_2",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 3,
+        "RewardNum": 9,
+        "ItemCode": "Steel_3",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_3_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 5000,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 30,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 4,
+        "RewardNum": 8,
+        "ItemCode": "Steel_2",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 7,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 5000,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 5,
+        "ItemCode": "Fabric_2",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 20,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 5,
+        "RewardNum": 8,
+        "ItemCode": "Steel_2",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_5_MESSAGE"
+    },
+    {
+        "Tier": 6,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 5,
+        "MessageTextKey": "WEEKLY_TIER_6_MESSAGE"
+    },
+    {
+        "Tier": 6,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 3000,
+        "MessageTextKey": "WEEKLY_TIER_6_MESSAGE"
+    },
+    {
+        "Tier": 6,
+        "RewardNum": 4,
+        "ItemCode": "Fabric_1",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_6_MESSAGE"
+    },
+    {
+        "Tier": 6,
+        "RewardNum": 7,
+        "ItemCode": "Steel_1",
+        "ItemCount": 10,
+        "MessageTextKey": "WEEKLY_TIER_6_MESSAGE"
+    },
+    {
+        "Tier": 7,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 3,
+        "MessageTextKey": "WEEKLY_TIER_7_MESSAGE"
+    },
+    {
+        "Tier": 7,
+        "RewardNum": 3,
+        "ItemCode": "GOLD",
+        "ItemCount": 2000,
+        "MessageTextKey": "WEEKLY_TIER_4_MESSAGE"
+    },
+    {
+        "Tier": 999,
+        "RewardNum": 2,
+        "ItemCode": "Support_Ticket",
+        "ItemCount": 1,
+        "MessageTextKey": "WEEKLY_TIER_999_MESSAGE"
+    }
+]

@@ -1,0 +1,36 @@
+{  
+   "actions":[  
+      {  
+         "action":"do_clear_story",
+         "aparams":{  
+            "result":{  
+               "musicNo":3,
+               "patternNo":0,
+               "score":6509600,
+               "maxCombo":1173,
+               "judgeTable":[  
+                  453,
+                  6,
+                  0
+               ],
+               "enemyBreakCount":29,
+               "isCleared":true,
+               "rankIndex":5,
+               "rating":0.9954248070716858,
+               "enemyRating":1.0,
+               "leftHealth":1.0,
+               "feverCount":3,
+               "mineTouchCount":0,
+               "playCount":1,
+               "acquiredMedalIds":[  
+                  3,
+                  4,
+                  5
+               ]
+            },
+            "EquipedDesignation":"Desig_Stage1"
+         }
+      }
+   ],
+   "player_id":3052449840716010
+}
